@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
-font: ''
-font_size: L
+font: Mr Robot
+font_size: M
 
 # SEO
 
@@ -59,7 +59,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
