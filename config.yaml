@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: FAIAS # Website name
 baseurl: 'fosteringai.net/' # Website URL
-copyright: '{year} FAIAS Project. All rights reserved' # Footer text, e.g. '© {year} Me'
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
