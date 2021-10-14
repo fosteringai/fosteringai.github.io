@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | FAIAS</title>
+    <link>/tag/machine-learning/</link>
+      <atom:link href="/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Result 3: Interactive Learning Tool</title>
+      <link>/project/result3/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/project/result3/</guid>
+      <description>&lt;p&gt;LearningML aims to be a free/open-source web-based platform aimed to bring Machine Learning (ML) fundamentals in a practical way to children or people interested in the growing field of AI.&lt;/p&gt;
+&lt;p&gt;This tool provides a platform intended to build ML models from example data, and a Programming Platform allowing to code creative applications using those models. At this point, LearningML is a proof of concept to explore whether machine learning algorithms can be executed locally in the browser in order to avoid the use of an AI cloud service when designing a tool to learn ML. The development has taken place under the umbrella of INTEF (the Spanish National Institute for Educational Technologies and Teacher Training), being its main developer a member doing his Ph.D. part-time at URJC. We aim to further develop LearningML so that it becomes a comprehensive free/open-source tool for learning AI at schools in Europe.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

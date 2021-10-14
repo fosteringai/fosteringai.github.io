@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partners | FAIAS</title>
+    <link>/partners/</link>
+      <atom:link href="/partners/index.xml" rel="self" type="application/rss+xml" />
+    <description>Partners</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Partners</title>
+      <link>/partners/</link>
+    </image>
+    
+    <item>
+      <title>CollectiveUP</title>
+      <link>/partners/collectiveup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/partners/collectiveup/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contact person:&lt;/strong&gt;
+Liliana Carrillo&lt;/p&gt;
+&lt;p&gt;Teatro Braga Media Arts&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:lylycarrillo@gmail.com&#34;&gt;lylycarrillo@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teatro Circo de Braga, EM, SA</title>
+      <link>/partners/teatro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/partners/teatro/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contact person:&lt;/strong&gt;
+Joana Miranda&lt;/p&gt;
+&lt;p&gt;Teatro Braga Media Arts&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:Joana.miranda@bragamediaarts.com&#34;&gt;Joana.miranda@bragamediaarts.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Universidad Rey Juan Carlos</title>
+      <link>/partners/urjc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/partners/urjc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Contact person:&lt;/strong&gt;
+Prof.Gregorio Robles&lt;/p&gt;
+&lt;p&gt;University Rey Juan Carlos&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:gregorio.robles@urjc.es&#34;&gt;gregorio.robles@urjc.es&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vrije Universiteit Brussel</title>
+      <link>/partners/vub/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/partners/vub/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
