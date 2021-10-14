@@ -1,14 +1,14 @@
 ---
-date: "2021-10-14T00:00:00Z"
+date: ""
 external_link: ""
 image:
   caption: ''
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: ''
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: ''
 #slides: example
 summary: Portugal
 #tags:
@@ -20,7 +20,7 @@ url_slides: ""
 url_video: ""
 ---
 
-*Contact person:*
+**Contact person:**
 Joana Miranda
 
 Teatro Braga Media Arts

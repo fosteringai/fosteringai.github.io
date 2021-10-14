@@ -1,14 +1,14 @@
 ---
-date: "2021-10-14T00:00:00Z"
+date: ""
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ''
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: ''
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: ''
 #slides: example
 summary: Belgium
 #tags:
@@ -20,7 +20,7 @@ url_slides: ""
 url_video: ""
 ---
 
-*Contact person:*
+**Contact person:**
 Liliana Carrillo
 
 Teatro Braga Media Arts
