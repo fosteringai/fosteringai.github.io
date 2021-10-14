@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: FAIAS # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
-copyright: '{year} FAIAS Project. All rights reserved ' # Footer text, e.g. '© {year} Me'
+baseurl: 'fosteringai.net/' # Website URL
+copyright: '{year} FAIAS Project. All rights reserved' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
