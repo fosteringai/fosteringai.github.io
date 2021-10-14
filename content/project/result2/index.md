@@ -1,5 +1,5 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: "2021-10-12T00:00:00Z"
 external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
@@ -8,9 +8,9 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: ''
-slides: example
-summary: An example of using the in-built project page.
+  url: 'https://twitter.com/fosteringai'
+#slides: example
+summary: AI in non-formal educators.
 tags:
 - AI Learning
 title: 'Result 2: Inclusion Guide for non-formal educators'
