@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Partners
+title: ''
 subtitle:
 
 design:
@@ -28,4 +28,4 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Hello Partners
+Hello 

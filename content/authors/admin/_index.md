@@ -31,7 +31,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: ''
+  link: https://twitter.com/fosteringai
 #- icon: graduation-cap
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -41,11 +41,13 @@ social:
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
-#superuser: true
+superuser: true
 title: ''
 ---
 
-Artificial Intelligence (AI) is believed to be a key driver of the 4th industrial revolution that will transform the economy and reinvent the nature of our work. We will increasingly be supported by and interact with technology that is powered by Artificial Intelligence. This calls for an education that prepares us for this future. 
+
+Artificial Intelligence (AI) is believed to be a key driver of the 4th industrial revolution that will transform the economy and reinvent the nature of our work. We will increasingly be supported by and interact with technology that is powered by Artificial Intelligence. This calls for an education that prepares us for this future.
+
 FAIaS intends to hone the skills, both hard cognitive and soft skills, required to understand, build or interact with Artificial Intelligence. We thus consider AI, not in the narrow, purely technological sense, but in the broad sense, as it impacts many different parts of our lives. We, therefore, choose decisively for an interdisciplinary and inclusive approach that focuses not only on STEM activities but involves all school subjects and covers a broad range of aspects, including the ethical, philosophical, economic, legal, and historical. We believe that approaching a subject matter from different perspectives deepens the understanding, and creates cohesion between the learners in an intrinsically interdisciplinary field like Artificial Intelligence.
 
 **OBJECTIVES**

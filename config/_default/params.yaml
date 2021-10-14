@@ -16,7 +16,7 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+twitter: https://twitter.com/fosteringai 
 
 # Contact (edit or remove options as required)
 
@@ -40,8 +40,8 @@ phone: ''
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: fosteringai
+    link: 'https://twitter.com/fosteringai'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me
@@ -92,7 +92,7 @@ edit_page:
     book: false
 show_related:
   book: true
-  page: false
+  page: true
   post: true
   project: true
   publication: true
