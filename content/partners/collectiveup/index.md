@@ -23,6 +23,6 @@ url_video: ""
 **Contact person:**
 Liliana Carrillo
 
-Teatro Braga Media Arts
+CollectiveUP
 
 lylycarrillo@gmail.com 
