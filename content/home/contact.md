@@ -12,23 +12,25 @@ weight: 60
 title: Contact
 subtitle:
 
+
 content:
   # Automatically link email and phone or display as text?
   autolink: true
   
   # Email form provider
-#  form:
-#    provider: formspree
-#    formspree:
-#      id: test
-#    netlify:
-#      # Enable CAPTCHA challenge to reduce spam?
-#      captcha: false
+  form:
+    provider: formspree
+    formspree:
+      id: test
+    netlify:
+      # Enable CAPTCHA challenge to reduce spam?
+      captcha: false
   
 design:
   columns: '2'
----
 
+---
+<!--
 <img src="https://gestion2.urjc.es/pdi/public/docs/gregorio.robles/foto_gregorio.robles.jpg" width="120" height="120" />
 
 
@@ -56,4 +58,4 @@ lylycarrillo@gmail.com
 <br>
 <br>
 <br>
-<img src="https://edu4ai.eu/public/images/logosbeneficaireserasmusright_en_0.jpg" width="300" height="200" />
+<img src="https://edu4ai.eu/public/images/logosbeneficaireserasmusright_en_0.jpg" width="300" height="200" /> -->
