@@ -12,13 +12,13 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2021-11-26T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/talk/multiplier-event-e1-bragaportugal/</loc>
+    <lastmod>2021-11-26T09:00:00+00:00</lastmod>
   </url><url>
     <loc>/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2021-11-26T09:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/ai-learning/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
@@ -40,6 +40,21 @@
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/partners/collectiveup/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/partners/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/partners/urjc/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/partners/teatro/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/partners/vub/</loc>
+    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
@@ -136,14 +151,8 @@
   </url><url>
     <loc>/admin/</loc>
   </url><url>
-    <loc>/partners/collectiveup/</loc>
+    <loc>/author/liliana-carrillo/</loc>
   </url><url>
-    <loc>/partners/</loc>
-  </url><url>
-    <loc>/partners/teatro/</loc>
-  </url><url>
-    <loc>/partners/urjc/</loc>
-  </url><url>
-    <loc>/partners/vub/</loc>
+    <loc>/author/prof.gregorio-robles/</loc>
   </url>
 </urlset>

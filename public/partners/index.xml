@@ -5,7 +5,7 @@
     <link>/partners/</link>
       <atom:link href="/partners/index.xml" rel="self" type="application/rss+xml" />
     <description>Partners</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Partners</title>
@@ -13,23 +13,45 @@
     </image>
     
     <item>
-      <title>CollectiveUP</title>
+      <title>CollectiveUP - Belgium</title>
       <link>/partners/collectiveup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/partners/collectiveup/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Contact person:&lt;/strong&gt;
-Liliana Carrillo&lt;/p&gt;
-&lt;p&gt;CollectiveUP&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:lylycarrillo@gmail.com&#34;&gt;lylycarrillo@gmail.com&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;The social and digital enterprise Dottoressa Computer (DC) was founded in 2010, and is currently composed by an association of 10 self-employed staff members, 3 advisers and 7 partner organizations. DC’s goal is societal transformation that supports us to upgrade our collective intelligence for collaboration and inclusion, adding agility and resilience to the environments.&lt;/p&gt;
+&lt;p&gt;With the slogan, ‘no one is left behind’, DC has 2 main streams of work, Digital and Social, leaving no one behind digitally and socially speaking.&lt;/p&gt;
+&lt;p&gt;DC’s digital work has 6 focus areas: 1. The creation of tech/digital tools that follow the principles of privacy-by-design, ethics-by-design, and human centered design. 2. The creation of online communities that support our transformational work and the one of our partners and projects. 3. Teaching and speaking about technologies with a focus on tech for social good/impact. 4. Consultancy and advice that guides teams to create digitally inclusive experiences and platforms. 5. Incubation and support of peer-to-peer technology projects. 6. Organization of online/offline events.&lt;/p&gt;
+&lt;p&gt;DC’s social work has 8 focus areas: 1. The creation, use and dissemination of collaborative methods and processes. 2. The support and advocacy for inclusion of the disadvantaged population in all the areas of our society and our democracy. 3. Advocacy, talks, workshops, and training around decentralized and distributed collective decision making. 4. Gender balance with man/woman as partners, supporting each other. 5. Intergenerational work and dialogues for peace building. 6. Consultancy and advice around diversity and inclusion. 7. Incubation and support of peer-to-peer learning and community building. 8. Organization of online/offline events.&lt;/p&gt;
+&lt;p&gt;DC is also a part of several international networks working for related goals like DigitYser, the European Digital Development Alliance, the Network of Agile Learning Centers, the network of Democratic Education, Ederyders and its Open Collective Intelligence Lab, the Peer-to-Peer Foundation, the Decentralized and Distributed Governance network, and the TEDxAntwerp organization.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Teatro Circo de Braga, EM, SA</title>
+      <title>Rey Juan Carlos University - Spain</title>
+      <link>/partners/urjc/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/partners/urjc/</guid>
+      <description>&lt;p&gt;The King Juan Carlos University (Spanish: Universidad Rey Juan Carlos, URJC) is a Spanish public research university located in the southern area of the Community of Madrid (Spain), with five campuses at Móstoles, Alcorcón, Vicálvaro, Aranjuez and Fuenlabrada. It is named after former king Juan Carlos I of Spain and has the Latin motto Non nova, sed nove (&amp;ldquo;Not new things, but in a new way&amp;rdquo;). It was established in 1996 by the government of the Community of Madrid. With 44.916 students, it is the second-biggest public university in the Community of Madrid. URJC is one of thirteen universities in the Community of Madrid, and it is the second-newest university in the community.&lt;/p&gt;
+&lt;p&gt;The background and Experience of your team related to the planned project of the organization are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Strong research focus on computational thinking&lt;/li&gt;
+&lt;li&gt;Experience with the development of educational tools for the use in the classroom&lt;/li&gt;
+&lt;li&gt;Award-winning experience with the development of educational assessment tools and methods for computational thinking (e.g., Google RISE Award 2015).&lt;/li&gt;
+&lt;li&gt;Diverse backgrounds: university professors and school teachers, technologists and educational researchers, researchers and disseminators&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teatro Circo Braga - Portugal</title>
       <link>/partners/teatro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/partners/teatro/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Contact person:&lt;/strong&gt;
+      <description>&lt;p&gt;Teatro Circo of Baga is the municipal company in Braga city and is focused on culture.
+TCB manages two of the most important cultural space in Braga. Also foster diverse art and educational activities.&lt;/p&gt;
+&lt;p&gt;TCB cordinates two programs concentrate on the relation among art, science and technology.&lt;/p&gt;
+&lt;p&gt;CIRCUITO project focus on encourage use of new technologies in young people in a critical and prudent way.&lt;/p&gt;
+&lt;p&gt;Gnration is a creative cultural space where spread relation between art and technology across expositions, concerts and workshops.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contact person:&lt;/strong&gt;
 Joana Miranda&lt;/p&gt;
 &lt;p&gt;Teatro Braga Media Arts&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;mailto:Joana.miranda@bragamediaarts.com&#34;&gt;Joana.miranda@bragamediaarts.com&lt;/a&gt;&lt;/p&gt;
@@ -37,23 +59,15 @@ Joana Miranda&lt;/p&gt;
     </item>
     
     <item>
-      <title>Universidad Rey Juan Carlos</title>
-      <link>/partners/urjc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/partners/urjc/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Contact person:&lt;/strong&gt;
-Prof.Gregorio Robles&lt;/p&gt;
-&lt;p&gt;University Rey Juan Carlos&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:gregorio.robles@urjc.es&#34;&gt;gregorio.robles@urjc.es&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Vrije Universiteit Brussel</title>
+      <title>Vrije Universiteit Brussel - Belgium</title>
       <link>/partners/vub/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/partners/vub/</guid>
-      <description></description>
+      <description>&lt;p&gt;Vrije Universiteit Brussel (VUB) is a competitive, high-quality, socially committed and internationally oriented university located in Brussels, Belgium. It counts 4 campuses in Brussels, 8 faculties and 193 research groups around 9 strategic research clusters: 1) big data, 2) brain &amp;amp; behaviour, 3) city dynamics, 4) environmental issues, 5) fighting diseases, 6) small particles, 7) smart engineering, 8) societal challenges, and 9) the circle of life. In 2018, VUB ranked #47 in Reuters’ Most Innovative Universities Top 100 in Europe, it has 127 active patent families and disclosed 40 inventions. VUB counts more than 3300 employees (47% female), of which &amp;gt;2200 academic staff.&lt;/p&gt;
+&lt;p&gt;VUB accommodates 3 doctoral schools (Human Sciences, Natural Sciences and (Bioscience) Engineering, and Life Sciences and Medicine) that cater to the needs of its more than 1,600 PhD students (2017: 1,677). Additionally, the university provides high-quality education in all academic fields to more than 16,000 BA and MA students (2017: 16,094). VUB is an active participant in European R&amp;amp;I projects, Horizon 2020 in particular. There are currently about 120 running R&amp;amp;I projects at VUB in all strategic research clusters, and the budget acquired from European funding sources doubled from €6 million to €14 million between 2014 and 2018. The increase mainly demonstrates VUB’s commitment to promoting European R&amp;amp;I, as well as its internationally renowned position as centre of knowledge in the capital of Europe.&lt;/p&gt;
+&lt;p&gt;VUB’s Artificial Intelligence Lab was founded in 1983 by Luc Steels and was the first AI Lab in Europe. Under the leadership of Prof. Ann Nowé, it counts 60 researchers including 11 professors. Since its creation, the AI Lab has successfully delivered more than 50 doctoral dissertations of which 13 in the last 5 years. The lab has a publication record of more than 850 publications at major conferences such as ICML, IJCAI, AAAI, ECAI, SAT, CP, and high impact journals such as AIJ, JMLR, JAAMAS, ACM TOCL, TPLP. Throughout our history, we have built an extended international AI network, for example through membership and participation in CLAIRE, EurAI, AI4EU among many others. It has a solid track record in fundamental as well as applied research, both on the European level (7 EU projects in the last 5 years) and the national level.&lt;/p&gt;
+&lt;p&gt;Recently, the lab opened its AI Experience Center, a high-tech test, demonstration and meeting environment where companies, tech entrepreneurs, researchers, policy makers and the general public can experiment with AI and collaborate to develop and produce technological solutions. It is developed together with both industry and research partners such as IMEC, the internationally leading institute for digital innovation.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
