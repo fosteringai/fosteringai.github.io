@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joana Miranda | FAIAS</title>
+    <link>/author/joana-miranda/</link>
+      <atom:link href="/author/joana-miranda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joana Miranda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/joana-miranda/avatar_hu9475e40123017607cf3e014e405fbc8c_87168_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Joana Miranda</title>
+      <link>/author/joana-miranda/</link>
+    </image>
+    
+  </channel>
+</rss>

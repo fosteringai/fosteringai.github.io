@@ -182,7 +182,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/project/result3/</guid>
       <description>&lt;p&gt;LearningML aims to be a free/open-source web-based platform aimed to bring Machine Learning (ML) fundamentals in a practical way to children or people interested in the growing field of AI.&lt;/p&gt;
-&lt;p&gt;This tool provides a platform intended to build ML models from example data, and a Programming Platform allowing to code creative applications using those models. At this point, LearningML is a proof of concept to explore whether machine learning algorithms can be executed locally in the browser in order to avoid the use of an AI cloud service when designing a tool to learn ML. The development has taken place under the umbrella of INTEF (the Spanish National Institute for Educational Technologies and Teacher Training), being its main developer a member doing his Ph.D. part-time at URJC. We aim to further develop LearningML so that it becomes a comprehensive free/open-source tool for learning AI at schools in Europe.&lt;/p&gt;
+&lt;p&gt;This tool provides a platform intended to build ML models from example data, and a Programming Platform allowing to code creative applications using those models. At this point, LearningML is a proof of concept to explore whether machine learning algorithms can be executed locally in the browser in order to avoid the use of an AI cloud service when designing a tool to learn ML. We aim to further develop LearningML so that it becomes a comprehensive free/open-source tool for learning AI at schools in Europe.&lt;/p&gt;
 </description>
     </item>
     
@@ -400,7 +400,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-415783629&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-278153496&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -410,7 +410,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-415783629&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-278153496&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

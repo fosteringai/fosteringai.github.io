@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sara Borges | FAIAS</title>
+    <link>/author/sara-borges/</link>
+      <atom:link href="/author/sara-borges/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sara Borges</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/author/sara-borges/avatar_hud826bd7656f5b4b8bfedaac0a6ddc978_8473_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sara Borges</title>
+      <link>/author/sara-borges/</link>
+    </image>
+    
+  </channel>
+</rss>
