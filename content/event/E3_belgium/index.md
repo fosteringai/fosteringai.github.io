@@ -24,7 +24,7 @@ links:
 location: Belgium
 projects:
 - internal-project
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 #slides: example
 summary: European Gathering on Artificial Intelligence at Schools
 tags: []

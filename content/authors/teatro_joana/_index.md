@@ -12,17 +12,17 @@
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
-#email: lylycarrillo@gmail.com
+#email: ""
 #highlight_name: true
 #interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
 organizations:
-- name: CollectiveUp
+- name: Teatro Braga Media Arts
 #  url: https://www.stanford.edu/
-role: Communications Manager and responsible for Result 2
-social:
+role: Responsible for Result 1
+#social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: /#contact
@@ -43,8 +43,8 @@ social:
 #  link: https://www.linkedin.com/
 #superuser: true
 user_groups: ["Researchers"]
-title: 'Liliana Carrillo'
----
+title: 'Joana Miranda'
 
+---
 <i class="fas fa-envelope"></i>
-lylycarrillo@gmail.com
+joana.miranda@bragamediaarts.com

@@ -24,7 +24,7 @@ links:
 location: Spain
 projects:
 - internal-project
-#publish Date: "2022-01-01T00:00:00Z"
+publish Date: "2022-12-01T00:00:00Z"
 #slides: example
 summary: European Gathering on Artificial Intelligence at Schools
 tags: []
