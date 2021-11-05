@@ -1,6 +1,6 @@
 ---
 date: "2021-10-12T00:00:00Z"
-external_link: ""
+external_link: "https://web.learningml.org/en/home-spanish-en-translation/"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart

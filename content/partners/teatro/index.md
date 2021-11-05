@@ -19,18 +19,14 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-Teatro Circo of Baga is the municipal company in Braga city and is focused on culture.
-TCB manages two of the most important cultural space in Braga. Also foster diverse art and educational activities.
+Teatro Circo de Braga is the municipal cultural company of Braga
 
-TCB cordinates two programs concentrate on the relation among art, science and technology.
+The company is the agglutinator and depoletor  pole of the creative cultural dynamics of the city and the region, as well as having the responsibility of managing and programming of the two of the most important cultural and creative venues in the city.
 
-CIRCUITO project focus on encourage use of new technologies in young people in a critical and prudent way.
+Through a sustained strategy of permanent openness to the community, the company wishes to assert itself as a unifying centre for cultural and creative dynamics, taking up its position as a space geared towards the awareness and development of new audiences, exposing them to relevant artistic practices, in light of a contemporary and cosmopolitan perspective.
 
-Gnration is a creative cultural space where spread relation between art and technology across expositions, concerts and workshops.
+To this end and as a follow-up to that strategy, the company runs the comprehensive program of <a href="https://www.bragamediaarts.com/en/">Braga Media Arts [BMA] </a> as a UNESCO creative city (Since november 2007) and all the national and international network and projects concerning media arts’ strategy in the city.
 
-**Contact person:**
-Joana Miranda
+In this programme, apart from the relationships with partners from the most different areas of society, the International <a href="https://www.bragamediaarts.com/en/index/" > Biennale of Art and Technology INDEX </a> and its educational programme <a href="https://www.bragamediaarts.com/en/circuito/"> CIRCUITO</a>, mainly  from  2018 onwards)  are highlighted for their importance as spaces for dialogue experimentation with society and its ecosystem. 
 
-Teatro Braga Media Arts
 
-Joana.miranda@bragamediaarts.com 

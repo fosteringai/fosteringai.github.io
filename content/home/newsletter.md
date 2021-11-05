@@ -28,11 +28,10 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-<!--#fbf372-->
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fffff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -45,24 +44,24 @@ design:
 <div id="mc_embed_signup">
 <form action="https://fosteringai.us5.list-manage.com/subscribe/post?u=706f9ed75fb884364cf3b673a&amp;id=983f38532f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-<!-- 	<label for="mce-EMAIL">Subscribe</label> -->
+	<label for="mce-EMAIL"></label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
 <div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
     <div class="content__gdpr">
         <label>Marketing Permissions</label>
         <p>Please select all the ways you would like to hear from Fostering Artificial Intelligence at Schools:</p>
         <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
-		<label class="checkbox subfield" for="gdpr_352948"><input type="checkbox" id="gdpr_352948" name="gdpr[352948]" value="Y" class="av-checkbox "><span>Email</span> </label>
+		<label class="checkbox subfield" for="gdpr_352948"><input type="checkbox" id="gdpr_352948" name="gdpr[352948]" value="Y" class="av-checkbox gdpr"><span>Email</span> </label>
         </fieldset>
         <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
     </div>
-    <div class="content__gdprLegal">
- <!--        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+<!--    <div class="content__gdprLegal">
+        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
     </div> -->
 </div>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_706f9ed75fb884364cf3b673a_983f38532f" tabindex="-1" value="" ></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" style="color:black" id="mc-embedded-subscribe" class="button" ></div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_706f9ed75fb884364cf3b673a_983f38532f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" style="color:black" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
