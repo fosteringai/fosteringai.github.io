@@ -1,5 +1,7 @@
 ---
-abstract: ""
+abstract: "In the last 10 years, Artificial Intelligence (AI) has been transforming the economy, our work, and pastimes in visible and invisible ways. And, we will increasingly be supported by and interact with technology that is powered by Artificial Intelligence. It is important to realize that not only technical careers will be impacted by this evolution, but almost every prof ession, ranging from historians, marketeers, healthcare workers to teachers will be changing.
+Every day, new AI platforms are being developed to support students and teachers tasks, but we are so busy with our daily tasks that we do not have time, or do not make time free to learn about those new trends. That is why the Erasmus+ project FAIaS (Fostering AI at Schools) has been launched, to bridge that knowledge gap and make it easy for the educational sector (schools, teachers, students and policy makers) to understand AI. The goal of FAIaS is to
+create easy content for teachers and students to learn about AI: learn what it is, where it is implemented, how to use it, how to create it, and also understand the positive and negative ways in which AI can impact our lives."
 address:
   city: Braga
   country: Portugal
@@ -9,7 +11,7 @@ address:
 all_day: false
 authors: []
 date: "2021-11-26T9:00:00Z"
-date_end: "2021-11-26T17:00:00Z"
+date_end: "2021-11-26T17:30:00Z"
 event: Multiplier event E1
 #event_url: https://example.org
 featured: false
@@ -35,6 +37,10 @@ url_slides: ""
 url_video: ""
 ---
 
+**{{% staticref "uploads/program-Braga-26-nov.pdf" "newtab" %}}Download Program{{% /staticref %}}**
+
+
+<!--
 <div id="eventbrite-widget-container-198177172257"></div>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
@@ -54,7 +60,8 @@ url_video: ""
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
-</script>
+</script> -->
+
 
 
 <!--{{% callout note %}}

@@ -7,7 +7,7 @@
     <description>FAIAS</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Nov 2021 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/media/icon_hu85bf0bbc0816d1dd04ec94c6db8981cf_47271_512x512_fill_lanczos_center_3.png</url>
       <title>FAIAS</title>
       <link>/</link>
     </image>
@@ -112,8 +112,12 @@ The variance of the distribution is $\sigma^{2}$.
       <link>/talk/multiplier-event-e1-bragaportugal/</link>
       <pubDate>Fri, 26 Nov 2021 09:00:00 +0000</pubDate>
       <guid>/talk/multiplier-event-e1-bragaportugal/</guid>
-      <description>&lt;div id=&#34;eventbrite-widget-container-198177172257&#34;&gt;&lt;/div&gt;
+      <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;/uploads/program-Braga-26-nov.pdf&#34; target=&#34;_blank&#34;&gt;Download Program&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;!--
+&lt;div id=&#34;eventbrite-widget-container-198177172257&#34;&gt;&lt;/div&gt;
+
 &lt;script src=&#34;https://www.eventbrite.co.uk/static/widgets/eb_widgets.js&#34;&gt;&lt;/script&gt;
+
 &lt;script type=&#34;text/javascript&#34;&gt;
     var exampleCallback = function() {
         console.log(&#39;Order complete!&#39;);
@@ -129,7 +133,7 @@ The variance of the distribution is $\sigma^{2}$.
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
-&lt;/script&gt;
+&lt;/script&gt; --&gt;
 &lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -397,7 +401,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-893756214&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-194526873&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -407,7 +411,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-893756214&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-194526873&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
