@@ -4,7 +4,7 @@ widget: people
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-weight: 45
+weight: 40
 
 title: Team Members
 

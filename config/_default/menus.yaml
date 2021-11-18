@@ -10,19 +10,19 @@ main:
   - name: Results
     url: '#projects'
     weight: 20
-  - name: Posts
-    url: '#posts'
-    weight: 60
   - name: Partners
     url: '#partners'
     weight: 30
-  - name: Events
-    url: '#events'
-    weight: 50
   - name: Team
     url: '#people'
     weight: 40
-  - name: News
+  - name: Events
+    url: '#events'
+    weight: 50
+  - name: Blog
+    url: '#posts'
+    weight: 60
+  - name: Newsletter
     url: '#newsletter'
     weight: 70
   - name: Contact
