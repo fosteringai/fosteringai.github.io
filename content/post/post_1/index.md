@@ -52,6 +52,19 @@ On-site event
 * Antonio José Romero Barrera, <i class="fab fa-linkedin-in"></i> [**Linkedin**](https://www.linkedin.com/in/antonio-jose-romero-barrera/) 
 
 
+## Program:
+
+* 9:00 Registration and networking moment 
+
+* 10:00 Welcome and Opening remarks
+* 10:15 Presentation of the FAIaS project - Fostering Artificial Intelligence at Schools//programme and expected outcomes,  
+Gregorio Robles [Coordinating partner of FAIaS & Full Professor at Universidad Rey Juan Carlos]
+* 10:30 Paulo Novais "Ethics for robots and other philosophical challenges of Artificial Intelligence in education" [Professor of Computer Science at the Department of Informatics, in the School of Engineering of the University of Minho] 
+* 11:15 Coffee break 
+* 11:45 "An Artificial Intelligence centered on trust” 
+* 13:00 Lunch 
+* 14:30 Workshops
+
 
 ## Workshops:
 
@@ -83,7 +96,7 @@ Description: Moral Machine is an online platform, developed at the Massachusetts
 
 
 
-### [📬 Subscribe to our newsletter](https://fosteringai.github.io) Sing up to receive more information about FAIaS project via email, and you’ll be the first to know about Artificial Intelligence and more.
+### [📬 Subscribe to our newsletter](http://eepurl.com/hLgTQz) Sing up to receive more information about FAIaS project via email, and you’ll be the first to know about Artificial Intelligence and more.
 
 
 
