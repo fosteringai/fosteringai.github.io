@@ -59,9 +59,14 @@ On-site event
 * 9:00 Registration and networking moment 
 
 * 10:00 Welcome and Opening remarks
-* 10:15 Presentation of the FAIaS project - Fostering Artificial Intelligence at Schools//programme and expected outcomes,  
+
+* 10:15 Keynote Paulo Novais " Artificial Intelligence and Educational Challenges: Fundamental Concepts, Present and Future Applications".
+
+  Paulo Novais [Full Professor at the Department of Informatics and researcher at the     ALGORITMI Centre, School of Engineering, University of Minho] 
+
+* 10:45 Presentation of the FAIaS project - Fostering Artificial Intelligence at Schools//programme and expected outcomes,  
 Gregorio Robles [Coordinating partner of FAIaS & Full Professor at Universidad Rey Juan Carlos]
-* 10:30 Paulo Novais "Ethics for robots and other philosophical challenges of Artificial Intelligence in education" [Professor of Computer Science at the Department of Informatics, in the School of Engineering of the University of Minho] 
+
 * 11:15 Coffee break 
 * 11:45 "An Artificial Intelligence centered on trust” 
 
@@ -74,7 +79,7 @@ Gregorio Robles [Coordinating partner of FAIaS & Full Professor at Universidad R
 
   Liliana Carrillo [Founding Director of CollectiveUP, co-founder of the European Digital Development Alliance and co-founder of Shine Your Light ]
   
-  Joana  Miranda [Executive Coordinator for Teatro Braga Media Arts]
+  Joana Miranda [Executive Director of Braga, Unesco Creative City in Media Arts]
   
 * 13:00 Lunch 
 * 14:30 Workshops
