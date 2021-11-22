@@ -72,8 +72,10 @@ Gregorio Robles [Coordinating partner of FAIaS & Full Professor at Universidad R
   Maria Manuel Leitão Marques [Member of the European Parliament and Member of the
   Special Committee on Artificial Intelligence in the Digital Age AIDA] *online
 
-  Liliana Carrillo [Founding Director of CollectiveUP, co-founder of the European Digital
-Development Alliance and co-founder of Shine Your Light ]
+  Liliana Carrillo [Founding Director of CollectiveUP, co-founder of the European Digital Development Alliance and co-founder of Shine Your Light ]
+  
+  Joana  Miranda [Executive Coordinator for Teatro Braga Media Arts]
+  
 * 13:00 Lunch 
 * 14:30 Workshops
 
