@@ -41,9 +41,16 @@ On-site event
 
 * Vitor Carvalho,  Professor and Researcher at IPCA //Member of the Commission's Expert Group on Artificial Intelligence and Data in Education and Training at the European Commission <i class="fab fa-linkedin-in"></i> [**Linkedin**](https://www.linkedin.com/in/v%C3%ADtor-carvalho-184a80112/) 
 
-* Maria Manuel Leitão Marques, Member of the European Parliament and Member of the Special Committee on Artificial Intelligence in the Digital Age AIDA
+* Maria Manuel Leitão Marques, Member of the European Parliament and Member of the Special Committee on Artificial Intelligence in the Digital Age AIDA [**Bio**](https://www.europarl.europa.eu/meps/en/197635/MARIA-MANUEL_LEITAO-MARQUES/home)
 
-* Liliana Carrillo, Founding Director of CollectiveUP, co-founder of the European Digital Development Alliance and co-founder of Shine Your Light <i class="fab fa-linkedin-in"></i> [**Linkedin**](https://www.linkedin.com/in/carrilloliliana/)  
+* Ricardo Rio, Braga’s Mayor <i class="fab fa-linkedin-in"></i> [**Linkedin**](https://www.linkedin.com/in/ricardo-rio-6879a56/) &
+[**Braga city council**](https://www.cm-braga.pt/en/0101/municipio/camara-municipal/presidente)
+
+
+
+* Liliana Carrillo, Founding Director of CollectiveUP, co-founder of the European Digital Development Alliance and co-founder of Shine Your Light <i class="fab fa-linkedin-in"></i> [**Linkedin**](https://www.linkedin.com/in/carrilloliliana/) 
+
+* Joana Miranda, Executive Director of Braga, Unesco Creative City in Media Arts <i class="fab fa-linkedin-in"></i> [**Linkedin**](https://www.linkedin.com/in/jomoreda/)
 
 * Marjon Blondeel,AI Engineer at Artificial Intelligence Lab Brussels <i class="fab fa-linkedin-in"></i> [**Linkedin**]( https://www.linkedin.com/in/mb-3678a5b3/)  
 
@@ -54,11 +61,15 @@ On-site event
 * Antonio José Romero Barrera, <i class="fab fa-linkedin-in"></i> [**Linkedin**](https://www.linkedin.com/in/antonio-jose-romero-barrera/) 
 
 
+
+
 ## Program:
 
 * 9:00 Registration and networking moment 
 
 * 10:00 Welcome and Opening remarks
+
+  Joana Miranda [Executive Director of Braga, Unesco Creative City in Media Arts]
 
 * 10:15 Keynote Paulo Novais " Artificial Intelligence and Educational Challenges: Fundamental Concepts, Present and Future Applications".
 
@@ -83,6 +94,7 @@ Gregorio Robles [Coordinating partner of FAIaS & Full Professor at Universidad R
   
 * 13:00 Lunch 
 * 14:30 Workshops
+* 17:30 End of the event, Ricardo Rio [Braga’s Mayor]
 
 
 ## Workshops:
