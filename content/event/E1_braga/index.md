@@ -36,6 +36,11 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
+**Registration form**
+
+To attend the event and workshops, register [**here**](https://docs.google.com/forms/d/e/1FAIpQLSenWv6oMdX3Vj_9EcOAVMHPZP57SuhP3lZVIUTscCsJHKM2nw/viewform)
+
+**Program**
 
 **{{% staticref "uploads/program-Braga-26-nov.pdf" "newtab" %}}Download Program{{% /staticref %}}**
 
