@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>FAIAS</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Nov 2021 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu85bf0bbc0816d1dd04ec94c6db8981cf_47271_512x512_fill_lanczos_center_3.png</url>
       <title>FAIAS</title>
@@ -105,6 +105,289 @@ The variance of the distribution is $\sigma^{2}$.
   &lt;summary&gt;What is the parameter $\mu$?&lt;/summary&gt;
   &lt;p&gt;The parameter $\mu$ is the mean or expectation of the distribution.&lt;/p&gt;
 &lt;/details&gt;</description>
+    </item>
+    
+    <item>
+      <title>All about the 1st Multiplier Event</title>
+      <link>/post/multiplier_event1/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/post/multiplier_event1/</guid>
+      <description>&lt;p&gt;On the 26th of November, FAIAS partners organized the 1st Multiplier Event under the great coordination of partner &lt;a href=&#34;https://fosteringai.github.io/partners/teatro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Teatro Circo de Braga&lt;/strong&gt;&lt;/a&gt;.  This Impact Gathering attracted a diverse public ranging from teachers to policy makers, with the slogan: “For a better understanding of what Artificial Intelligence is and how it can be used (or misused) in education and training”.&lt;/p&gt;
+&lt;p&gt;This event had two parts: in the morning there were engaging talks at the main conference room, and in the afternoon &lt;a href=&#34;https://fosteringai.github.io/post/ai_at_schools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;practical workshops&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The first part in the morning started with a Keynote from &lt;a href=&#34;https://www.di.uminho.pt/~pjn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Paulo Novais&lt;/strong&gt;&lt;/a&gt; with the title of &amp;ldquo;Artificial Intelligence and Educational Challenges: Fundamental Concepts, Present and Future Applications”. Paulo Novais explained how humans had always worried about transmitting knowledge to the future generations. And he showed how technological evolution can help us to solve that problem and other social and economical problems. He explained how AI has been integrated in our life and how it has progressed till the point of creating artwork today.&lt;/p&gt;
+&lt;p&gt;Paulo&amp;rsquo;s speech showed examples of the use of emerging technologies at schools: robots in the classroom, use of sensors and cameras to monitor some behaviors, virtual reality… and he inspired the public to take advantage of the use of AI tools and smart classroom resources to enhance the learning for each student.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/multiplier_event1/O34A1908_hud0d7476944e0a18e72f09df55f993daf_543924_9e77268c9ba76d67bdb99c2dbf6a2234.jpg 400w,
+               /post/multiplier_event1/O34A1908_hud0d7476944e0a18e72f09df55f993daf_543924_525f96303390bcd186edda83c2559552.jpg 760w,
+               /post/multiplier_event1/O34A1908_hud0d7476944e0a18e72f09df55f993daf_543924_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/post/multiplier_event1/O34A1908_hud0d7476944e0a18e72f09df55f993daf_543924_9e77268c9ba76d67bdb99c2dbf6a2234.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;After Paulo Novais, the next speaker &lt;a href=&#34;https://gestion2.urjc.es/pdi/ver/gregorio.robles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Gregorio Robles&lt;/strong&gt;&lt;/a&gt; explained the main objectives of the Erasmus+ project FAIaS (Fostering Artificial Intelligence at schools) and its ultimate goal: inspire teachers to learn about AI, make it accessible to them and facilitate the work of teaching AI in any subject, not only in the most technical or mathematical subjects. This translates into 3 concrete &lt;a href=&#34;https://fosteringai.github.io/#projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;project results&lt;/strong&gt;&lt;/a&gt; with guidelines, lesson plans and an easy to use machine learning tool integrated into the lessons.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/multiplier_event1/O34A2005_huaeae21d0c69da22409f26699a6d7426d_640349_871ef4ee3405b2951e3cef49b4e353cb.jpg 400w,
+               /post/multiplier_event1/O34A2005_huaeae21d0c69da22409f26699a6d7426d_640349_11eada8dba448be8c94e457cad296bc5.jpg 760w,
+               /post/multiplier_event1/O34A2005_huaeae21d0c69da22409f26699a6d7426d_640349_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/post/multiplier_event1/O34A2005_huaeae21d0c69da22409f26699a6d7426d_640349_871ef4ee3405b2951e3cef49b4e353cb.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The next talks in the morning were in the form of a panel, a debate about &amp;ldquo;An Artificial Intelligence centered on trust”.  For this occasion, the speakers were &lt;a href=&#34;https://www.europarl.europa.eu/meps/en/197635/MARIA-MANUEL_LEITAO-MARQUES/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Maria Manuel Leitão Marques&lt;/strong&gt;&lt;/a&gt; (Member of the European Parliament and Member of the Special Committee on Artificial Intelligence in the Digital Age AIDA), &lt;a href=&#34;https://2ai.ipca.pt/vitor-carvalho/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Vitor Carvalho&lt;/strong&gt;&lt;/a&gt; (Professor and Researcher at IPCA &amp;amp; Member of the Commission&amp;rsquo;s Expert Group on Artificial Intelligence and Data in Education and Training at the European Commission), &lt;a href=&#34;https://tedxantwerp.be/speakers/liliana-carrillo-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Liliana Carrillo&lt;/strong&gt;&lt;/a&gt; (Founding Director of CollectiveUP, co-founder of the European Digital Development Alliance and co-founder of Shine Your Light) and &lt;a href=&#34;https://www.linkedin.com/in/jomoreda/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Joana Miranda&lt;/strong&gt;&lt;/a&gt; (Executive Director of Braga, Unesco Creative City in Media Arts).&lt;/p&gt;
+&lt;p&gt;The panelists talked about some of their worries and wishes about the use of AI:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The use of data in AI-based tools, citizens’ rights, data privacy and the use of data.&lt;/li&gt;
+&lt;li&gt;The challenges about bias in AI.&lt;/li&gt;
+&lt;li&gt;The importance of having good datasets for creating good AI models.&lt;/li&gt;
+&lt;li&gt;And the use of AI for the benefit and support of the community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/multiplier_event1/O34A2148_huc8a28c1c64a23a81ba1f0b7b4891e0cc_662089_95cbfa57042c546c010b6acb052c8e4e.jpg 400w,
+               /post/multiplier_event1/O34A2148_huc8a28c1c64a23a81ba1f0b7b4891e0cc_662089_fd6fb6ff5e982ff9ec430e461887bea7.jpg 760w,
+               /post/multiplier_event1/O34A2148_huc8a28c1c64a23a81ba1f0b7b4891e0cc_662089_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/post/multiplier_event1/O34A2148_huc8a28c1c64a23a81ba1f0b7b4891e0cc_662089_95cbfa57042c546c010b6acb052c8e4e.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;It was of particular interest to hear about the human-centered and society-centered approach to AI at technology that all the panelists had.  The FAIAS partners are pleased with the support from EU Parliamentarian Maria Manuel Leitão Marques and her support on &lt;a href=&#34;https://publish.twitter.com/?query=https%3A%2F%2Ftwitter.com%2FLeitaoMarquesEP%2Fstatus%2F1465051570752700418&amp;amp;widget=Tweet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Twitter&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Just after the panel, the morning program was closed by &lt;a href=&#34;https://www.cm-braga.pt/en/0101/municipio/camara-municipal/presidente&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ricardo Rio&lt;/strong&gt;&lt;/a&gt;, Braga’s Mayor, who also counted with the virtual attendance of EU Parliamentarian Maria.A networking lunch followed his closing words.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/multiplier_event1/O34A2299_hub2b63a8aa722305ac8439dc2f0f6b023_690894_36de3eab388b3a24005989f003c256de.jpg 400w,
+               /post/multiplier_event1/O34A2299_hub2b63a8aa722305ac8439dc2f0f6b023_690894_1a91a7b653870055b84e4a2f347a53d6.jpg 760w,
+               /post/multiplier_event1/O34A2299_hub2b63a8aa722305ac8439dc2f0f6b023_690894_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/post/multiplier_event1/O34A2299_hub2b63a8aa722305ac8439dc2f0f6b023_690894_36de3eab388b3a24005989f003c256de.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/multiplier_event1/O34A2049_hu87f75b4f269216515ca9019ee31aac1e_599586_03fcfe7dcd904b3d952079fbc4dce560.jpg 400w,
+               /post/multiplier_event1/O34A2049_hu87f75b4f269216515ca9019ee31aac1e_599586_27f694644e636e0c3552c16bf67cc269.jpg 760w,
+               /post/multiplier_event1/O34A2049_hu87f75b4f269216515ca9019ee31aac1e_599586_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/post/multiplier_event1/O34A2049_hu87f75b4f269216515ca9019ee31aac1e_599586_03fcfe7dcd904b3d952079fbc4dce560.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In the afternoon, the second part of the event started with four workshops related to AI topics. The first workshop was carried out by &lt;a href=&#34;https://www.linkedin.com/in/mb-3678a5b3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Marjon Blondeel&lt;/strong&gt;&lt;/a&gt; and had as title &amp;ldquo;In a Reinforcement Learner agent’s shoes” . This workshop was very popular among teachers from Braga city schools, and many attended it and learned about the &lt;a href=&#34;https://en.wikipedia.org/wiki/Reinforcement_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Reinforcement Learning&lt;/strong&gt;&lt;/a&gt; technique and some of the mysteries behind it.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/multiplier_event1/O34A2439_hu7e1bbe4c0b7999c12419f9bc77b405e0_1152032_3b07c1598d49316357f4c8c13e2c058a.jpg 400w,
+               /post/multiplier_event1/O34A2439_hu7e1bbe4c0b7999c12419f9bc77b405e0_1152032_f0a2edf3260e324cdbde044981bdb687.jpg 760w,
+               /post/multiplier_event1/O34A2439_hu7e1bbe4c0b7999c12419f9bc77b405e0_1152032_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/post/multiplier_event1/O34A2439_hu7e1bbe4c0b7999c12419f9bc77b405e0_1152032_3b07c1598d49316357f4c8c13e2c058a.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The second workshop was &amp;ldquo;Discovering our unconscious &lt;a href=&#34;https://en.wikipedia.org/wiki/Bias&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;bias&lt;/strong&gt;&lt;/a&gt;&amp;rdquo; carried out by &lt;a href=&#34;https://www.linkedin.com/in/carrilloliliana/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Liliana Carrillo&lt;/strong&gt;&lt;/a&gt; and many teachers learned about the biases that each person has about different topics. Teachers were invited to participate in several activities that helped them realize their unconscious biases and invited them to become more conscious about it.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/multiplier_event1/O34A2407_hu896ee975a28d8350fc4173cd01c15a87_1059030_f75b2b795cdc8ea243a3384229c1a605.jpg 400w,
+               /post/multiplier_event1/O34A2407_hu896ee975a28d8350fc4173cd01c15a87_1059030_25b249aba8b556f190c88c70cfe94965.jpg 760w,
+               /post/multiplier_event1/O34A2407_hu896ee975a28d8350fc4173cd01c15a87_1059030_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/post/multiplier_event1/O34A2407_hu896ee975a28d8350fc4173cd01c15a87_1059030_f75b2b795cdc8ea243a3384229c1a605.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The third workshop was “LearningML tool” given by &lt;a href=&#34;https://www.linkedin.com/in/luisa-y%C3%A1nez-guti%C3%A9rrez-ia-bigdata/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Luisa Yánez&lt;/strong&gt;&lt;/a&gt;. In this workshop, she showed to teachers how easy it is to create text and image classification models in the &lt;a href=&#34;https://web.learningml.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;LearningML&lt;/strong&gt;&lt;/a&gt; tool and its use to activate students&#39; critical thinking. This LearningML tool is an &lt;a href=&#34;https://gitlab.com/users/learningml/projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;open-source web application&lt;/strong&gt;&lt;/a&gt;  created to facilitate the learning and teaching of &lt;a href=&#34;https://en.wikipedia.org/wiki/Machine_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/multiplier_event1/O34A2359_hucb65bb737c6e5010db99b2bf5e900935_767083_8c7b364a8d5e1bacb7bcfa32333660da.jpg 400w,
+               /post/multiplier_event1/O34A2359_hucb65bb737c6e5010db99b2bf5e900935_767083_86a0de21c875e16ec22f9aa494912329.jpg 760w,
+               /post/multiplier_event1/O34A2359_hucb65bb737c6e5010db99b2bf5e900935_767083_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/post/multiplier_event1/O34A2359_hucb65bb737c6e5010db99b2bf5e900935_767083_8c7b364a8d5e1bacb7bcfa32333660da.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The fourth workshop was the “Moral Machine” given by Antonio &lt;a href=&#34;https://www.linkedin.com/in/antonio-jose-romero-barrera/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;José Romero&lt;/strong&gt;&lt;/a&gt;. &lt;a href=&#34;https://www.moralmachine.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;The Moral Machine&lt;/strong&gt;&lt;/a&gt; is a web tool created by &lt;a href=&#34;https://www.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MIT&lt;/strong&gt;&lt;/a&gt; to pose dilemmas about decision-making of autonomous devices in extreme situations. In this workshop, the importance of pondering about certain circumstances and implementing critical thinking based lessons was emphasized.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/multiplier_event1/O34A2522_hu53b94d093fa70d5ec92ddabc96e501be_699688_d84ad8b41290dbf82e43b28883419793.jpg 400w,
+               /post/multiplier_event1/O34A2522_hu53b94d093fa70d5ec92ddabc96e501be_699688_ddf8a1b15e0a337e1d477a42ee4f72d2.jpg 760w,
+               /post/multiplier_event1/O34A2522_hu53b94d093fa70d5ec92ddabc96e501be_699688_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/post/multiplier_event1/O34A2522_hu53b94d093fa70d5ec92ddabc96e501be_699688_d84ad8b41290dbf82e43b28883419793.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Acknowledgements:
+&lt;a href=&#34;https://fosteringai.github.io/#partners&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FAIAS partners&lt;/strong&gt;&lt;/a&gt; thank everyone who cooperated in any way to the successful organization of this event.
+A special thanks to partner &lt;a href=&#34;https://fosteringai.github.io/partners/teatro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Teatro Circo de Braga&lt;/strong&gt;&lt;/a&gt; for the great leadership and hospitality shown before, during and after this event. Thanks!&lt;/p&gt;
+&lt;h3 id=&#34;-subscribe-to-our-newsletterhttpeepurlcomhlgtqz-sing-up-to-receive-more-information-about-faias-project-via-email-and-youll-be-the-first-to-know-about-artificial-intelligence-and-more&#34;&gt;&lt;a href=&#34;http://eepurl.com/hLgTQz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📬 Subscribe to our newsletter&lt;/a&gt; Sing up to receive more information about FAIaS project via email, and you’ll be the first to know about Artificial Intelligence and more.&lt;/h3&gt;
+</description>
     </item>
     
     <item>
