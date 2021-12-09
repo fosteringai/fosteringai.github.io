@@ -52,7 +52,11 @@ The panelists talked about some of their worries and wishes about the use of AI:
 
 ![](O34A2148.jpg)
 
-It was of particular interest to hear about the human-centered and society-centered approach to AI at technology that all the panelists had.  The FAIAS partners are pleased with the support from EU Parliamentarian Maria Manuel Leitão Marques and her support on [**Twitter**](https://publish.twitter.com/?query=https%3A%2F%2Ftwitter.com%2FLeitaoMarquesEP%2Fstatus%2F1465051570752700418&widget=Tweet)
+It was of particular interest to hear about the human-centered and society-centered approach to AI at technology that all the panelists had.  The FAIAS partners are pleased with the support from EU Parliamentarian Maria Manuel Leitão Marques and her support on Twitter 
+
+
+<a href="https://twitter.com/LeitaoMarquesEP/status/1465051570752700418"><img src="twitter.png" alt="twitter"></a>
+
 
 Just after the panel, the morning program was closed by [**Ricardo Rio**](https://www.cm-braga.pt/en/0101/municipio/camara-municipal/presidente), Braga’s Mayor, who also counted with the virtual attendance of EU Parliamentarian Maria.A networking lunch followed his closing words.
 
