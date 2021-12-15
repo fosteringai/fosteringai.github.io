@@ -5,12 +5,200 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu85bf0bbc0816d1dd04ec94c6db8981cf_47271_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Progress on LearningML, the digital tool to learn Machine Learning concepts</title>
+      <link>/post/learningml/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/post/learningml/</guid>
+      <description>&lt;h3 id=&#34;the-why-behind-faias-digital-tool&#34;&gt;&lt;strong&gt;The why behind FAIaS digital tool&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The FAIaS consortium, led by the &lt;a href=&#34;https://urjc.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;University Rey Juan Carlos&lt;/strong&gt;&lt;/a&gt;, has been working on the implementation of a digital tool to facilitate the understanding of &lt;a href=&#34;https://en.wikipedia.org/wiki/Machine_learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt;&lt;/a&gt;, one of the branches of Artificial Intelligence.   The digital tool is called &lt;a href=&#34;https://learningml.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;LearningML&lt;/strong&gt;&lt;/a&gt; and it uses the interface of &lt;a href=&#34;https://scratch.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Scratch&lt;/strong&gt;&lt;/a&gt; to make it easy to use and playful for the new generations.  The idea behind the creation of this digital tool is to integrate it in teaching practices to complement the experience and help deepen the understanding of Machine Learning in a playful way.&lt;/p&gt;
+&lt;p&gt;The FAIaS consortium thinks that the use of LearningML (and other easy-to-use accessible tools based on Machine Learning) in the classroom offers an opportunity to contribute to the advancement of digital skills in Europe and it also can support updating the educational system.  Students will be provided with new and innovative ways to expand the content taught in the classroom in the different subjects and offer alternative ways to understand concepts.&lt;/p&gt;
+&lt;p&gt;For inspiration, the lessons of taxonomy in biology courses can include AI concepts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;For example, students can learn about AI while actually learning about flower classification, without coding, and only by using the &lt;a href=&#34;https://giotto.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;AI-tool Giotto&lt;/strong&gt;&lt;/a&gt;. &lt;a href=&#34;https://medium.com/@lapalmafrancesco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Francesco Palma&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://www.linkedin.com/in/isaac-rosat-5843821b2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Isaac Rosat&lt;/strong&gt;&lt;/a&gt; have written a ‘Step by step flower classification’ &lt;a href=&#34;https://towardsdatascience.com/step-by-step-flower-classification-without-coding-c652a7f73251&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;article&lt;/strong&gt;&lt;/a&gt;  about it and a &lt;a href=&#34;https://youtu.be/hN2g8sBB1EE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;video tutorial&lt;/strong&gt;&lt;/a&gt; too.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are other apps based on AI that help scientist to &lt;a href=&#34;https://edgy.app/scientists-use-ai-to-classify-plant-species&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;classify plant species&lt;/strong&gt;&lt;/a&gt; and there is a huge branch of research, and innovation around biodiversity that is uses related concepts and for some inspiration we invite you to read the science article about &lt;a href=&#34;https://www.science.org/content/article/artificial-intelligence-could-help-biologists-classify-world-s-tiny-creatures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;‘Artificial intelligence could help biologists classify the world&amp;rsquo;s tiny creatures: Automation could aid biodiversity monitoring’&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-what-and-technicalities-about-learningml&#34;&gt;&lt;strong&gt;The what and technicalities about LearningML&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Now, going back to the topic of the LearningML tool of this &lt;a href=&#34;https://fosteringai.github.io/project/result3/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FAIaS project&lt;/strong&gt;&lt;/a&gt;, the team has opted for using and collaborate with an &lt;a href=&#34;https://en.wikipedia.org/wiki/Open_source&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Open-Source tool&lt;/strong&gt;&lt;/a&gt;.  While the whole team is constantly doing user testing and giving new ideas for the improvement of the tool, we are very grateful to professor &lt;a href=&#34;http://juandarodriguez.es/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Juan David Rodriguez&lt;/strong&gt;&lt;/a&gt; who has been coding most of the tool.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/learningml/image10_hud31e3baff2134862dfb91570db3cd190_33534_0fe282b6c2d3ae44baadec78672a3ca2.png 400w,
+               /post/learningml/image10_hud31e3baff2134862dfb91570db3cd190_33534_4539eb7c388c124584455af46015eef3.png 760w,
+               /post/learningml/image10_hud31e3baff2134862dfb91570db3cd190_33534_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/learningml/image10_hud31e3baff2134862dfb91570db3cd190_33534_0fe282b6c2d3ae44baadec78672a3ca2.png&#34;
+               width=&#34;723&#34;
+               height=&#34;286&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Users can access the tool at: &lt;a href=&#34;https://learningml.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://learningml.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LearningML uses the &lt;a href=&#34;https://learningml.org/scratch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Scratch&lt;/strong&gt;&lt;/a&gt; interface&lt;/li&gt;
+&lt;li&gt;LearningML is open source and other people can help to develop it further.  Visit the &lt;a href=&#34;https://gitlab.com/users/learningml/projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;GitLab&lt;/strong&gt;&lt;/a&gt; project&lt;/li&gt;
+&lt;li&gt;There is a &lt;a href=&#34;https://web.learningml.org/en/category/develop/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;developer guide&lt;/strong&gt;&lt;/a&gt; that can help others to develop the tool further&lt;/li&gt;
+&lt;li&gt;There is a &lt;a href=&#34;https://web.learningml.org/en/blog-english-translation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blog&lt;/strong&gt;&lt;/a&gt; with news about the tool, available in English&lt;/li&gt;
+&lt;li&gt;LearningML uses &lt;a href=&#34;https://www.tensorflow.org/js&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Tensorflow&lt;/strong&gt;&lt;/a&gt; javascript libraries to build the machine learning model&lt;/li&gt;
+&lt;li&gt;LearningML has two development versions:
+&lt;ul&gt;
+&lt;li&gt;A &lt;a href=&#34;https://learningml.org/editor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;stable version&lt;/strong&gt;&lt;/a&gt; that users can use with confidence as this is a development in an advanced state, that is a fully functional and bugs-free version.&lt;/li&gt;
+&lt;li&gt;A &lt;a href=&#34;https://beta.learningml.org/editor/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;beta version&lt;/strong&gt;&lt;/a&gt; that has more features than the stable version but is in a development and testing phase, and some functionalities may have some errors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Below, you find a list with some of the differences between the two available versions:&lt;/p&gt;
+&lt;p&gt;Stable version 1.2:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Functionalities:
+&lt;ul&gt;
+&lt;li&gt;Texts&lt;/li&gt;
+&lt;li&gt;Images&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Languages:
+&lt;ul&gt;
+&lt;li&gt;Spanish&lt;/li&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;li&gt;German&lt;/li&gt;
+&lt;li&gt;Greek&lt;/li&gt;
+&lt;li&gt;Galician&lt;/li&gt;
+&lt;li&gt;Catalan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Beta version 1.3:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Functionalities:
+&lt;ul&gt;
+&lt;li&gt;Texts&lt;/li&gt;
+&lt;li&gt;Images&lt;/li&gt;
+&lt;li&gt;Numbers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Languages:
+&lt;ul&gt;
+&lt;li&gt;Spanish&lt;/li&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;li&gt;German&lt;/li&gt;
+&lt;li&gt;Greek&lt;/li&gt;
+&lt;li&gt;Galician&lt;/li&gt;
+&lt;li&gt;Catalan&lt;/li&gt;
+&lt;li&gt;Portuguese&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;the-how-to-use-learningml-in-the-classroom&#34;&gt;&lt;strong&gt;The how to use LearningML in the classroom&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;_learning-materials_&#34;&gt;&lt;em&gt;Learning materials&lt;/em&gt;&lt;/h4&gt;
+&lt;p&gt;Throughout the implementation of LearningML in the lessons to use in the &lt;a href=&#34;https://fosteringai.github.io/project/result1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;classroom&lt;/strong&gt;&lt;/a&gt; and to use in &lt;a href=&#34;https://fosteringai.github.io/project/result2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;non-formal inclusive settings&lt;/strong&gt;&lt;/a&gt; , the FAIaS consortium is and will be creating materials about the LearningML tool to facilitate its learning.&lt;/p&gt;
+&lt;p&gt;LearningML is an easy tool to implement in classrooms, with a fluid and very intuitive interface. We have made a series of video tutorials about LearningML that you can see below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/i4tFHjrxmHQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Introduction to the web interface &amp;amp; sign up process&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/89ev3KpVRL0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Demo exercise of basic image recognition&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/kakE7Y9nRGw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Demo exercise of basic text recognition&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We have also included more complete official &lt;a href=&#34;https://web.learningml.org/en/video-tutorials/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;video tutorials&lt;/strong&gt;&lt;/a&gt; that you can find in the official website.&lt;/p&gt;
+&lt;p&gt;Also, lesson plans will be published for easy use in the several lessons.  Meanwhile, we invite you to see the complementary work developed in the UK on the topic of &lt;a href=&#34;https://machinelearningforkids.co.uk/#!/worksheets&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;machine learning for kids&lt;/strong&gt;&lt;/a&gt; and a video about machine learning with &lt;a href=&#34;https://www.youtube.com/watch?v=rQwJvn-noHg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Scratch&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&#34;events-and-workshops&#34;&gt;Events and workshops&lt;/h5&gt;
+&lt;p&gt;Through the realization of events and &lt;a href=&#34;https://fosteringai.github.io/post/ai_at_schools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;workshops&lt;/strong&gt;&lt;/a&gt; we have already taught several teachers how the platform works and taught different examples of the activities that can be performed with it, such as the classification of historical architectural styles or &lt;a href=&#34;https://fosteringai.github.io/post/multiplier_event1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;the classification of verbal forms&lt;/strong&gt;&lt;/a&gt;. Among its basic functionalities, it is also worth highlighting the possibility of creating one&amp;rsquo;s own application through the &lt;a href=&#34;https://scratch.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Scratch block programming language&lt;/strong&gt;&lt;/a&gt;, which makes programming accessible to any user who does not have a previous knowledge base.&lt;/p&gt;
+&lt;h5 id=&#34;complementary-work-about-digital-tools&#34;&gt;Complementary work about digital tools&lt;/h5&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/learningml/image3_hu97a6af5270c7df6a348211279f6987b2_32533_87c33c18767d60f2a4af9517679528db.png 400w,
+               /post/learningml/image3_hu97a6af5270c7df6a348211279f6987b2_32533_30bc8393e3a9a6f9b4081fecd97133d7.png 760w,
+               /post/learningml/image3_hu97a6af5270c7df6a348211279f6987b2_32533_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/learningml/image3_hu97a6af5270c7df6a348211279f6987b2_32533_87c33c18767d60f2a4af9517679528db.png&#34;
+               width=&#34;760&#34;
+               height=&#34;236&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In addition, we have also raised the importance of transmitting values and education based on critical thinking with other platforms related to Artificial Intelligence such as the &lt;a href=&#34;https://www.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;MIT web tool&lt;/strong&gt;&lt;/a&gt; of &lt;a href=&#34;https://www.moralmachine.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Moral Machine&lt;/strong&gt;&lt;/a&gt;. Knowing how to interpret and evaluate certain events is vital for correct decision making. The Moral Machine puts us in the extreme situation of the decision making that an autonomous car must make when it is involved in an accident penalizing passengers or pedestrians. With the different cases it presents us with, it opens up certain kinds of debates about whether the user would be willing to buy a car that in a certain circumstance can make decisions that may harm him or whether the common benefit is more important than the individual one.
+You can read more about LearningML and the Moral Machine tools and workshops in our previous post about the &lt;a href=&#34;https://fosteringai.github.io/post/multiplier_event1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Multiplier Event&lt;/strong&gt;&lt;/a&gt; held in the city of Braga (Portugal) last November.&lt;/p&gt;
+&lt;h5 id=&#34;invitation-to-the-happy-hour&#34;&gt;Invitation to the Happy Hour&lt;/h5&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/learningml/banner_happy_hour_hud1799012a7117fb81e4efc90885b84f9_161768_13f087ba67affecb2eaa5d3fa9990471.png 400w,
+               /post/learningml/banner_happy_hour_hud1799012a7117fb81e4efc90885b84f9_161768_aadd1369edafa31dddd85f6f221be006.png 760w,
+               /post/learningml/banner_happy_hour_hud1799012a7117fb81e4efc90885b84f9_161768_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/learningml/banner_happy_hour_hud1799012a7117fb81e4efc90885b84f9_161768_13f087ba67affecb2eaa5d3fa9990471.png&#34;
+               width=&#34;760&#34;
+               height=&#34;215&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Finally, we want to let you know that every 3 months we organize live interactive sessions online with the name of Happy Hour.  We invite you to attend the happy hour to learn about new tools, connect with teachers, hear about their experiences, connect with AI professionals, and learn in an informal and relaxed way.  Stay up-to-date about the happy hour and subscribe to our newsletter at the following link, see you!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dNqTIVoByWM&amp;amp;list=PLaJK9Y94GVlO-glIX_KieSgQy51bJh0wQ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Video Happy Hour #1&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Visit our &lt;a href=&#34;https://www.youtube.com/channel/UCHC2vEydwNXDEGaLuH_pxQg/featured&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;YouTube channel&lt;/strong&gt;&lt;/a&gt; with all contents&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-subscribe-to-our-newsletterhttpeepurlcomhlgtqz-sing-up-to-receive-more-information-about-faias-project-via-email-and-youll-be-the-first-to-know-about-artificial-intelligence-and-more&#34;&gt;&lt;a href=&#34;http://eepurl.com/hLgTQz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📬 Subscribe to our newsletter&lt;/a&gt; Sing up to receive more information about FAIaS project via email, and you’ll be the first to know about Artificial Intelligence and more.&lt;/h3&gt;
+</description>
+    </item>
     
     <item>
       <title>All about the 1st Multiplier Event</title>
