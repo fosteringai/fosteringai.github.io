@@ -99,7 +99,7 @@ Gregorio Robles [Coordinating partner of FAIaS & Full Professor at Universidad R
 
 ## Workshops:
 
-**Workshop 1 - In a Reinforcement Learner agent’s shoes**
+**Workshop 1 - In a Reinforcement Learning agent's shoes**
 
 Who : Marjon Blondeel Vrije Universiteit Brussel 
 

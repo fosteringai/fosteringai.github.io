@@ -64,7 +64,7 @@ Just after the panel, the morning program was closed by [**Ricardo Rio**](https:
 
 ![](O34A2049.jpg)
 
-In the afternoon, the second part of the event started with four workshops related to AI topics. The first workshop was carried out by [**Marjon Blondeel**](https://www.linkedin.com/in/mb-3678a5b3/) and had as title "In a Reinforcement Learner agent’s shoes” . This workshop was very popular among teachers from Braga city schools, and many attended it and learned about the [**Reinforcement Learning**](https://en.wikipedia.org/wiki/Reinforcement_learning) technique and some of the mysteries behind it.
+In the afternoon, the second part of the event started with four workshops related to AI topics. The first workshop was carried out by [**Marjon Blondeel**](https://www.linkedin.com/in/mb-3678a5b3/) and had as title "In a Reinforcement Learning agent's shoes" . This workshop was very popular among teachers from Braga city schools, and many attended it and learned about the [**Reinforcement Learning**](https://en.wikipedia.org/wiki/Reinforcement_learning) technique and some of the mysteries behind it.
 
 
 ![](O34A2439.jpg)
