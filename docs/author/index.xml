@@ -5,12 +5,44 @@
     <link>/author/</link>
       <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
     <description>FAIAS</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/avatar_hu1a369ac14e57816c03852c6c2aefa42a_19708_270x270_fill_lanczos_center_3.png</url>
       <title>FAIAS</title>
       <link>/author/</link>
     </image>
+    
+    <item>
+      <title>Something about IO3 TBC</title>
+      <link>/post/something_about_io3/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/post/something_about_io3/</guid>
+      <description>&lt;h3 id=&#34;working-with-the-teachers-what-we-have-learned-so-far&#34;&gt;&lt;strong&gt;Working with the teachers: what we have learned so far&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;One of the &lt;a href=&#34;https://fosteringai.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;FAIAS&lt;/strong&gt;&lt;/a&gt; most important goals is the creation of a user-friendly handbook that introduces teachers to the world of &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_intelligence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Artificial Intelligence&lt;/strong&gt;&lt;/a&gt;, sharing inspiring examples and useful tools to use in the classroom.
+With this in mind, the &lt;a href=&#34;https://fosteringai.github.io/partners/teatro/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;TCB  team&lt;/strong&gt;&lt;/a&gt; has been dedicated to listening to teachers and their concerns, suggestions, and questions. Whether through focus groups, questionnaires or informal conversations, our team has been dedicated to understanding, in close touch with the teacher´s community , ways to design and bring the content closer to their real needs.&lt;/p&gt;
+&lt;p&gt;The data collected so far allow us to integrate some lessons in the material we are developing and also serve those who are developing similar projects in this area.&lt;/p&gt;
+&lt;p&gt;Here are some of the things we have learned so far, in five key points:&lt;/p&gt;
+&lt;h4 id=&#34;simple-validated-and-trusted&#34;&gt;&lt;strong&gt;Simple, Validated and Trusted&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;All the feedback we have gathered from the teachers are all basically in the same direction: the content should be simple, validated, and reliable.&lt;/p&gt;
+&lt;p&gt;Teachers want to feel comfortable and safe (scientifically and pedagogically) about the content they share in the classroom, so there is no space for mistakes or unvalidated content. It is essential to have good, accessible and reliable sources when creating content for sharing in the classroom.
+The world is already full of counter-information and fake news. The classroom should be a space of truth, and teachers want to feel (and own) that trust.&lt;/p&gt;
+&lt;h4 id=&#34;focus-on-the-learning-goals&#34;&gt;&lt;strong&gt;Focus on the learning goals&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;The learning goals are one of the most fundamental parts of a lesson plan. Therefore, they should be objective, clear, and achievable.&lt;br&gt;
+When we do not have clear learning goals, we may lose the message along the way. So, it is fundamental to start with the question: what do we want students to learn from this? And that question should be the beacon when creating this type of content.&lt;/p&gt;
+&lt;h4 id=&#34;freedom-to-the-teachers&#34;&gt;&lt;strong&gt;Freedom to the teachers&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Generally speaking, teachers like to receive information and educational resources that are useful for their classes. However, they should have the freedom to choose how to incorporate this content into their classroom, i.e., they want to approach the content in the way that makes the most sense to them and for their students.&lt;/p&gt;
+&lt;h4 id=&#34;make-it-official&#34;&gt;&lt;strong&gt;Make it official&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;The content must be related to the &lt;a href=&#34;https://en.wikipedia.org/wiki/Education_in_Portugal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;official national programme&lt;/strong&gt;&lt;/a&gt; that the teachers must abide by.
+Schools have a predefined national curriculum that they must follow. Often, these curriculums are demanding and do not leave much room for improvisation. Therefore, it is fundamental to relate the content created to the official education programmes. That will facilitate and enable the relationship between projects and formal education and therefore its adoption.&lt;/p&gt;
+&lt;h4 id=&#34;give-context-and-keep-it-interesting&#34;&gt;&lt;strong&gt;Give context and keep it interesting&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Finally, it is also fundamental to consider the context. These ideas that we have been sharing are directly related to Portuguese teachers, specifically from the schools of &lt;a href=&#34;https://en.wikipedia.org/wiki/Braga&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Braga&lt;/strong&gt;&lt;/a&gt;. Meaning that maybe some of these contributions might make less sense when speaking about teachers from another part of the world. Therefore, it is important to consider the territory and the profile of students in which we find ourselves in and where we want to adopt and implement these contents and lessons.
+Also, motivation plays a key role. Teachers want to have content that speaks closely to the students&#39; everyday life. Matters that motivate them and keep them engaged in the conversation. Being aware of what inspires the youth these days is half a step towards achieving that motivation and their engagement.&lt;/p&gt;
+&lt;p&gt;These five key ideas will surely guide our upcoming prototypes and tests. Also, this close and trustwordly relation with the teachers community  is essential to ensure we deliver a project that is adequate to their actual needs and makes them trust us and embrace the project with us.
+Although these conclusions may seem straightforward they are extremely relevant to the success of the project and guarantee that the results will be adopted and implemented over the next few years.&lt;/p&gt;
+&lt;p&gt;If you are a teacher and want to contribute to this conversation or participate in the project, you can contact us through &lt;a href=&#34;mailto:fosteringai@gmail.com&#34;&gt;fosteringai@gmail.com&lt;/a&gt;. We would be happy to hear your contributions!&lt;/p&gt;
+&lt;h3 id=&#34;-subscribe-to-our-newsletterhttpeepurlcomhlgtqz-sing-up-to-receive-more-information-about-faias-project-via-email-and-youll-be-the-first-to-know-about-artificial-intelligence-and-more&#34;&gt;&lt;a href=&#34;http://eepurl.com/hLgTQz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📬 Subscribe to our newsletter&lt;/a&gt; Sing up to receive more information about FAIaS project via email, and you’ll be the first to know about Artificial Intelligence and more.&lt;/h3&gt;
+</description>
+    </item>
     
     <item>
       <title>Progress on LearningML, the digital tool to learn Machine Learning concepts</title>
