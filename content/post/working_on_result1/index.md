@@ -22,7 +22,7 @@ subtitle: "FAIaS Result 1"
 tags:
 #- Academic
 #- 开源
-title: Something about IO3 TBC
+title: 'Working on Result 1 with the teachers: what we have learned so far'
 ---
 
 
