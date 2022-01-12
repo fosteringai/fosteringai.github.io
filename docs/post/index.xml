@@ -5,12 +5,238 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu85bf0bbc0816d1dd04ec94c6db8981cf_47271_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>In a Reinforcement Learning agent’s shoes</title>
+      <link>/post/reinforcement_learning/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/post/reinforcement_learning/</guid>
+      <description>&lt;p&gt;Artificial Intelligence (AI) is all around us and we use it everyday: spam filters, online chatbots, search engines, video games anticipating our next moves, navigation apps, rideshare apps, just to name a few. The underlying processes and concepts however are rarely exposed to most people, making it difficult to understand what AI is and how it should be approached. Understanding the fundamental concepts however is becoming very important for people of all ages, including children who are growing up in an environment that integrates more AI products than ever before.
+In the workshop In a Reinforcement Learning agent’s shoes held during the first &lt;a href=&#34;https://fosteringai.github.io/post/ai_at_schools/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Multiplier Event in Braga&lt;/strong&gt;&lt;/a&gt; on the 26th of November, 2021, we explored the concepts and ideas behind  Reinforcement Learning and we even put ourselves in the shoes of an agent learning a task through Reinforcement Learning. You can download the slides (in Spanish) here &lt;strong&gt;&lt;a href=&#34;/uploads/In_an_RL_agent%27s_shoes.pdf&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Reinforcement Learning is currently one of the most popular subfields of Artificial Intelligence. It is the main technology behind autonomous vehicles and it is used for numerous tasks such as real-time bidding and automated temperature control in data centres. In several video games, the best AI controlled players use Reinforcement Learning. The most famous examples are AlphaGo and its latest evolution &lt;a href=&#34;https://deepmind.com/blog/article/alphago-zero-starting-scratch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;AlphaGo Zero&lt;/strong&gt;&lt;/a&gt;. AlphaGo was the first computer program to defeat a world champion in Go, one of the most complex games that exist. It was able to win after training on thousands of games played by humans. AlphaGo Zero even goes one step further; it does not know the rules and just starts learning how to play the game by playing against itself, becoming its own teacher.&lt;/p&gt;
+&lt;p&gt;Many of the core algorithms in Reinforcement Learning were originally inspired by biological learning systems such as operant conditioning, a behaviourist technique in psychology, where behaviour is reinforced by positive or negative stimuli. Operant conditioning was extensively studied by Edward L. Thorndike (1874-1949) who observed the behaviour of hungry cats trying to escape puzzle boxes. Cats could escape the box and reach the food by means of simple actions such as pulling a cord. At first it took the cats a long time to get out of the box, but on successive trials it became easier to a point where the cats would be able to escape without hesitation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/reinforcement_learning/Thorndike_puzzle_box_hu00d7a0f94dabc0c5ff8467996c678809_62241_93cc04520f30dc3bc1bd2bc8bcf909fc.png 400w,
+               /post/reinforcement_learning/Thorndike_puzzle_box_hu00d7a0f94dabc0c5ff8467996c678809_62241_b096a9ccca7ed31798a66c00ba47f526.png 760w,
+               /post/reinforcement_learning/Thorndike_puzzle_box_hu00d7a0f94dabc0c5ff8467996c678809_62241_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/reinforcement_learning/Thorndike_puzzle_box_hu00d7a0f94dabc0c5ff8467996c678809_62241_93cc04520f30dc3bc1bd2bc8bcf909fc.png&#34;
+               width=&#34;554&#34;
+               height=&#34;204&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Thorndike called this The Law of Effect which states that any behaviour that is followed by pleasant consequences is likely to be repeated, and behaviour followed by unpleasant consequences is likely to be stopped. To understand their physical environment, the cats interact with it using trial and error until a successful result is obtained.&lt;/p&gt;
+&lt;p&gt;Humans are really good at learning by trial and error. A typical example is how humans learn how to ride a bike: you cannot learn it from a book, you cannot learn it by watching others, the only way is by doing it. At first you will make mistakes and probably fall off (negative reward) but eventually, after several failed attempts, you will figure out how to do it. This is exactly the idea behind Reinforcement Learning, a goal-based learning technique in which an agent learns by trial and error which actions it should take in different situations or states in order to optimize a reward. A second example is parents who treat their children to chocolate when they finish their homework. Here we already see a potential pitfall: the child learns that he will receive a treat or a reward when he finishes his homework, but he will not learn how to do it without mistakes. Indeed, when programming a Reinforcement Learning algorithm setting a correct reward is very important.&lt;/p&gt;
+&lt;p&gt;To illustrate how Reinforcement Learning works, let us look at the Atari game Breakout which you can play &lt;a href=&#34;https://elgoog.im/breakout/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt; and where you must eliminate as many bricks as possible using a single ball. You can use the walls and/or the paddle below to hit the ball against the bricks and destroy them, but you lose a turn when the paddle misses the ball’s rebound.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/reinforcement_learning/Breakout-on-the-Atari-2600_hu61f96175d8f68d7c378782acff52cd4e_21436_01b8e41e6b7fbb89d585d25bd7e2fa7d.png 400w,
+               /post/reinforcement_learning/Breakout-on-the-Atari-2600_hu61f96175d8f68d7c378782acff52cd4e_21436_492bf10c584027d75edd759391953e91.png 760w,
+               /post/reinforcement_learning/Breakout-on-the-Atari-2600_hu61f96175d8f68d7c378782acff52cd4e_21436_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/reinforcement_learning/Breakout-on-the-Atari-2600_hu61f96175d8f68d7c378782acff52cd4e_21436_01b8e41e6b7fbb89d585d25bd7e2fa7d.png&#34;
+               width=&#34;760&#34;
+               height=&#34;501&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;An agent can learn how to play the game by interacting with the environment and trying to find out which action it should take in a situation or state to obtain the highest reward at the end of the game. Possible actions are moving the paddle to some extent to the left or to the right. Taking such an action changes the environment: bricks might have been destroyed, the paddle and the ball are in another position. The agent also receives an immediate reward depending on how many bricks he destroyed. Based on the new state, the agent then takes another action. This loop is repeated during many games until the agent learns which action he should take in every state in order to maximize the total reward which in this case is the score at the end of a game.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/reinforcement_learning/MDP_loop_hu31a29d5e1d39c67fa88d844c60a086ee_170994_e6c3a2852722324dae07510635c4ec13.png 400w,
+               /post/reinforcement_learning/MDP_loop_hu31a29d5e1d39c67fa88d844c60a086ee_170994_ffaef0c79ae0e2b86dc7b9309413d659.png 760w,
+               /post/reinforcement_learning/MDP_loop_hu31a29d5e1d39c67fa88d844c60a086ee_170994_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/reinforcement_learning/MDP_loop_hu31a29d5e1d39c67fa88d844c60a086ee_170994_e6c3a2852722324dae07510635c4ec13.png&#34;
+               width=&#34;760&#34;
+               height=&#34;279&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;One of the challenges here is the &lt;strong&gt;trade-off between exploration and exploitation&lt;/strong&gt;. To obtain a high reward, the agent should take actions that it has tried in the past and found to be effective. However, in order to discover these actions, it has to try actions that it has not selected before. In other words, the agent should exploit what it already knows, but it should also explore in order to choose better actions in the future. Determining the perfect equilibrium between both is not only a research topic in Reinforcement Learning, it is also one of the biggest problems humans face when learning a new skill: should you repeat what you have done until now or should you try something else that might get you better results.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/reinforcement_learning/exploration_exploitation_hu07d92386e6727d2c2cdcec6bf99eea65_107364_2998614e4e66771bd29f922e02312578.jpg 400w,
+               /post/reinforcement_learning/exploration_exploitation_hu07d92386e6727d2c2cdcec6bf99eea65_107364_b60deae4033bf994181d3dc002bf9e0c.jpg 760w,
+               /post/reinforcement_learning/exploration_exploitation_hu07d92386e6727d2c2cdcec6bf99eea65_107364_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/post/reinforcement_learning/exploration_exploitation_hu07d92386e6727d2c2cdcec6bf99eea65_107364_2998614e4e66771bd29f922e02312578.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;In this &lt;a href=&#34;https://www.youtube.com/watch?v=TmPfTpjtdgg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;video&lt;/strong&gt;&lt;/a&gt; you can check how a Reinforcement Learning algorithm learns how to play Breakout and how it evolves over training. In the beginning it makes quite some mistakes, even after 100 trials. But if it keeps playing for a couple of hours, it gets to human level and after a couple more hours it becomes even better and learns a trick called tunnelling: it goes around the sides and lets the ball bounce around on top. It has learned a strategy the programmer of the algorithm had not anticipated.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/TmPfTpjtdgg&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;For his Bachelor thesis How an AI agent sees the world (2021), Alessandro Fasano - under the supervision of professor &lt;a href=&#34;https://ai.vub.ac.be/team/ann-nowe/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ann Nowé&lt;/strong&gt;&lt;/a&gt; and advisors &lt;a href=&#34;https://ai.vub.ac.be/team/helene-plisnier/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hélène Plisnier&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://ai.vub.ac.be/team/denis-steckelmacher/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Denis Steckelmacher&lt;/strong&gt;&lt;/a&gt; from the VUB’s AI Lab - implemented a game that puts the player literally in the shoes of an agent learning a task using Reinforcement Learning. The goal of this project was to teach people the principles of trial and error and rewards while having fun. By showing how the technology works, he wanted to make people more comfortable with AI and temper anxiety towards it.&lt;/p&gt;
+&lt;p&gt;The game does not only explain the concepts, but it also illustrates the differences between humans and algorithms. For instance, in the next screenshot you can see what the player sees: he controls the actions which are numbered 1 to 6 and at each timestep he can observe the state which consists of three numbers. After taking an action, i.e. picking a number between 1 and 6, he receives a reward in the form of a colour, where green indicates a positive reward, red a negative reward and orange something in between. This is everything the player sees. He does not have any clue of what he is controlling. From the player’s point of view, there is no meaning attached to the actions or the state, they are just numbers.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/reinforcement_learning/demo_controlpanel_hu05d94baa071128abcac6cd37b175238c_8486_4ce5199f775621ed80f26896e57e4f33.png 400w,
+               /post/reinforcement_learning/demo_controlpanel_hu05d94baa071128abcac6cd37b175238c_8486_05293ae5b76e6226b6c53552d1e3193b.png 760w,
+               /post/reinforcement_learning/demo_controlpanel_hu05d94baa071128abcac6cd37b175238c_8486_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/reinforcement_learning/demo_controlpanel_hu05d94baa071128abcac6cd37b175238c_8486_4ce5199f775621ed80f26896e57e4f33.png&#34;
+               width=&#34;357&#34;
+               height=&#34;491&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;On a hidden screen other people can follow what is happening in reality: the player is controlling a crane and has to put a container on a ship. The player, just like a real AI algorithm, has no clue whether he is trying to learn how to play chess, Breakout or operating a crane. This reflects the fact that algorithms manipulate numbers, whereas humans are flexible in their thinking, can reason about concepts and can contextualize.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/reinforcement_learning/demo_real_world_hu3ea21d594c3cdc9b083fade7e71025e3_33587_acaa4ab3d3036535c589e5e56fa23d17.PNG 400w,
+               /post/reinforcement_learning/demo_real_world_hu3ea21d594c3cdc9b083fade7e71025e3_33587_b1572fd572d6db4a45c494909338b7d1.PNG 760w,
+               /post/reinforcement_learning/demo_real_world_hu3ea21d594c3cdc9b083fade7e71025e3_33587_1200x1200_fit_lanczos_3.PNG 1200w&#34;
+               src=&#34;/post/reinforcement_learning/demo_real_world_hu3ea21d594c3cdc9b083fade7e71025e3_33587_acaa4ab3d3036535c589e5e56fa23d17.PNG&#34;
+               width=&#34;754&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The game is written in the Scheme programming language. You can download the demo directly, the file is called &lt;code&gt;demo.rkt&lt;/code&gt;
+&lt;a target=&#34;_blank&#34; download=&#34;demo.rkt&#34; href=&#34;demo.rkt&#34;&gt;Download it&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you want to run the game you should download &lt;a href=&#34;https://racket-lang.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Racket&lt;/strong&gt;&lt;/a&gt;. You can run the game using DrRacket which will be installed automatically together with Racket. Save demo.rkt on your computer and open it in DrRacket by clicking File -&amp;gt; Open. You will then see the following screen.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/reinforcement_learning/demo_hu56000e73bb21dfcc7f40a20183d101c7_89005_3c7069e9b653d3e2f4a88447bd6d7188.png 400w,
+               /post/reinforcement_learning/demo_hu56000e73bb21dfcc7f40a20183d101c7_89005_e38839495c79f323546a8a1767b66be9.png 760w,
+               /post/reinforcement_learning/demo_hu56000e73bb21dfcc7f40a20183d101c7_89005_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/post/reinforcement_learning/demo_hu56000e73bb21dfcc7f40a20183d101c7_89005_3c7069e9b653d3e2f4a88447bd6d7188.png&#34;
+               width=&#34;517&#34;
+               height=&#34;567&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;After clicking on run the screen with the control panel and the screen containing the graphics will open. You can then start playing by choosing actions. After winning or losing the game, you will find a text file in the same folder as where you saved demo.rkt. This text file contains an overview of the actions you have chosen during the game. You can delete this file if you want.&lt;/p&gt;
+&lt;p&gt;As an alternative to using DrRacket you can also navigate to the file’s directory using the command line and start the demo by typing&lt;/p&gt;
+&lt;p&gt;
+  &lt;i class=&#34;fas fa-terminal  pr-1 fa-fw&#34;&gt;&lt;/i&gt; racket demo.rkt&lt;/p&gt;
+&lt;h3 id=&#34;-subscribe-to-our-newsletterhttpeepurlcomhlgtqz-sing-up-to-receive-more-information-about-faias-project-via-email-and-youll-be-the-first-to-know-about-artificial-intelligence-and-more&#34;&gt;&lt;a href=&#34;http://eepurl.com/hLgTQz&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;📬 Subscribe to our newsletter&lt;/a&gt; Sing up to receive more information about FAIaS project via email, and you’ll be the first to know about Artificial Intelligence and more.&lt;/h3&gt;
+</description>
+    </item>
     
     <item>
       <title>Working on Result 1 with the teachers: what we have learned so far</title>
