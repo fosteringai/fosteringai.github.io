@@ -62,7 +62,7 @@ Some references can be found here:
 
 With the previous references and examples about bias in AI related to race and gender, we can clearly see that the bias challenges need to be tackle to guarantee that our systems are not automating tendencies or discrimination. Bias should be important for everyone, it is not only about women’s jobs, but about many more aspects that may affect men too.  Example: As proportionately more than 90% of [**murders were commited by men**](https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=1&selYrs=2019&rdoGroups=1&rdoData=c) in the last years, and [**most teachers are female**](https://nces.ed.gov/programs/coe/indicator/clr), AI systems that are designed with poor knowledge and consciousness about bias will tend to automate discriminatory practices against men and classify them easily as ‘potential murders’ or as ‘potentially unfit for teaching jobs’.  Will we allow this discriminatory systems against our men?  Gender and racial discrimination should be important for everyone and the FAIaS project cares about it.  For inspiration check the Michael Kimmel’s TED talk on ‘[**Why gender equality is good for everyone - Men included**](https://youtu.be/7n9IOH0NvyY)’
 
-{% include youtubePlayer.html id=page.youtubeId2 %}
+
 
 ## What is the FAIaS’ inclusion guide?
 
