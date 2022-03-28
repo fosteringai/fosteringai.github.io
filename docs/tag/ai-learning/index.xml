@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Learning | FAIAS</title>
+    <link>/tag/ai-learning/</link>
+      <atom:link href="/tag/ai-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu85bf0bbc0816d1dd04ec94c6db8981cf_47271_512x512_fill_lanczos_center_3.png</url>
+      <title>AI Learning</title>
+      <link>/tag/ai-learning/</link>
+    </image>
+    
+    <item>
+      <title>Result 1: Guideline for teachers in formal education</title>
+      <link>/project/result1/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/project/result1/</guid>
+      <description>&lt;p&gt;This intellectual output, devoted to secondary teachers, will be an easy-and-ready to-use handbook that will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduce teachers (especially those who are without experience and/or are skeptical on the use of AI in humanistic topics) into the AI word.&lt;/li&gt;
+&lt;li&gt;Showcase appealing and inspiring examples and resources of how to use A.I. in the classroom covering different topics, and ranging from science to math, from literature to philosophy.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Result 2: Inclusion Guide for non-formal educators</title>
+      <link>/project/result2/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/project/result2/</guid>
+      <description>&lt;p&gt;This intellectual output, devoted to non-formal educators and STEAM activity organizers, will be a handbook that will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduce our target group to Artificial Intelligence while explaining why diversity is so important in this field.&lt;/li&gt;
+&lt;li&gt;Tackle actively the diversity perspective from the point of view of gender.&lt;/li&gt;
+&lt;li&gt;Introduce the topic of bias in AI algorithms and Showcase practical examples of this.&lt;/li&gt;
+&lt;li&gt;Showcase ‘inclusive’ AI resources that can be used in STEAM activities, and non-formal education activities.&lt;/li&gt;
+&lt;li&gt;Recommend how to organize gender balance STEAM activities on AI.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
