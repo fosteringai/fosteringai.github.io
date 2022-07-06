@@ -1,4 +1,4 @@
-![](banner_happy_hour.png)
+![](BANNER_LTTA.png)
 
 ## LEARNING TEACHING TRAINING ACTIVITY
 
