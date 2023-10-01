@@ -1,0 +1,4322 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#3f51b5" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+
+    
+    
+    
+    
+      
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=B612+Mono:400,700%7COrbitron:400,700&display=swap">
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.abe7ef0559e8e1130b539d494798d555.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6EZCEYT1QE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-6EZCEYT1QE', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-T3J5LDL');
+</script>
+
+
+  
+
+  
+
+
+
+
+  
+  
+  
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="FAIAS" />
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu85bf0bbc0816d1dd04ec94c6db8981cf_47271_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu85bf0bbc0816d1dd04ec94c6db8981cf_47271_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+    <meta property="twitter:site" content="@https://twitter.com/fosteringai" />
+    <meta property="twitter:creator" content="@https://twitter.com/fosteringai" />
+  
+  <meta property="og:site_name" content="FAIAS" />
+  <meta property="og:url" content="/" />
+  <meta property="og:title" content="FAIAS" />
+  <meta property="og:description" content="" /><meta property="og:image" content="/media/icon_hu85bf0bbc0816d1dd04ec94c6db8981cf_47271_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="/media/icon_hu85bf0bbc0816d1dd04ec94c6db8981cf_47271_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta property="og:updated_time" content="2022-01-12T00:00:00&#43;00:00" />
+    
+  
+
+  
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": ""
+}
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>FAIAS</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="page-wrapper   " data-wc-page-id="3976528693a0108357f4928017600865" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.8988fb2a4bba758785868cfcb5244555.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">FAIAS</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">FAIAS</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects" data-target="#projects"><span>Results</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#partners" data-target="#partners"><span>Partners</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people" data-target="#people"><span>Team</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#events" data-target="#events"><span>Events</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts" data-target="#posts"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#newsletter" data-target="#newsletter"><span>Newsletter</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+          
+          <li class="nav-item d-none d-lg-inline-flex">
+            <a class="nav-link" href="https://twitter.com/fosteringai" data-toggle="tooltip" data-placement="bottom" title="Follow me on Twitter" target="_blank" rel="noopener" aria-label="Follow me on Twitter">
+              <i class="fab fa-twitter" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+
+  
+<span class="js-widget-page d-none"></span>
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="about" class="home-section wg-about  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+<div class="row">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="avatar avatar-circle"
+           width="270" height="270"
+           src="/author/avatar_hu1a369ac14e57816c03852c6c2aefa42a_19708_270x270_fill_lanczos_center_3.png" alt="">
+      
+
+      <div class="portrait-title">
+        <h2></h2>
+        
+
+        
+      </div>
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/#contact"  aria-label="envelope">
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://twitter.com/fosteringai" target="_blank" rel="noopener" aria-label="twitter">
+            <i class="fab fa-twitter big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/"  aria-label="github">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8">
+
+    
+    <h1>Fostering Artificial Intelligence at Schools</h1>
+
+    <div class="article-style">
+      <p>Artificial Intelligence (AI) is believed to be a key driver of the 4th industrial revolution that will transform the economy and reinvent the nature of our work. We will increasingly be supported by and interact with technology that is powered by Artificial Intelligence. This calls for an education that prepares us for this future.</p>
+<p>FAIaS intends to hone the skills, both hard cognitive and soft skills, required to understand, build or interact with Artificial Intelligence. We thus consider AI, not in the narrow, purely technological sense, but in the broad sense, as it impacts many different parts of our lives. We, therefore, choose decisively for an interdisciplinary and inclusive approach that focuses not only on STEM activities but involves all school subjects and covers a broad range of aspects, including the ethical, philosophical, economic, legal, and historical. We believe that approaching a subject matter from different perspectives deepens the understanding, and creates cohesion between the learners in an intrinsically interdisciplinary field like Artificial Intelligence.</p>
+<p><strong>OBJECTIVES</strong></p>
+<p>FAIaS’ ultimate goal is to improve the knowledge of artificial intelligence on children and youngsters. We break down this goal into the following high-level objectives:</p>
+<ol>
+<li>Improve high school students understanding of AI technologies and their impact.</li>
+<li>Provide teachers across subjects with online and offline tools &amp; guidelines that can be readily integrated into their courses.</li>
+<li>Improve the knowledge of minorities and underprivileged groups in society specifically, through non-formal education.</li>
+<li>Build an online, interactive tool to let pupils and teachers experiment with AI</li>
+</ol>
+<!--
+  <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/resume.pdf" target="_blank">resumé</a>.-->
+
+    </div>
+
+    <div class="row">
+
+      
+
+      
+
+    </div>
+  </div>
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="projects" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Results</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+
+    
+
+    
+    
+    
+    
+      
+    
+
+    <span class="d-none default-project-filter">*</span>
+
+    
+    
+    <div class="project-toolbar">
+      <div class="project-filters">
+        <div class="btn-toolbar">
+          <div class="btn-group flex-wrap">
+            
+              
+              
+              
+                
+              
+              <a href="#" data-filter="*" class="btn btn-primary btn-lg active">All</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-Machine-Learning" class="btn btn-primary btn-lg">Machine Learning</a>
+            
+              
+              
+              
+              <a href="#" data-filter=".js-id-AI-Learning" class="btn btn-primary btn-lg">AI Learning</a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+
+  <div class="isotope projects-container js-layout-masonry ">
+
+    
+    
+      
+    
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-AI-Learning">
+  <div class="card">
+    
+    
+    <a href="/project/result1/"  class="card-image hover-overlay">
+      <img src="/project/result1/featured_huf51c834647af448ce2e2e44dd358b197_1684119_550x0_resize_q75_lanczos.jpg" alt="Result 1: Guideline for teachers in formal education" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/result1/" >Result 1: Guideline for teachers in formal education</a></h4>
+
+      
+      <div class="article-style">
+        <p>AI in formal education.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/fosteringai" target="_blank" rel="noopener">
+    <i class="fab fa-twitter mr-1"></i>Follow</a>
+
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-AI-Learning">
+  <div class="card">
+    
+    
+    <a href="/project/result2/"  class="card-image hover-overlay">
+      <img src="/project/result2/featured_hu5742a3aba77b61890d2614f8f43ff88e_2803415_550x0_resize_q75_lanczos.jpg" alt="Result 2: Inclusion Guide for non-formal educators" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/result2/" >Result 2: Inclusion Guide for non-formal educators</a></h4>
+
+      
+      <div class="article-style">
+        <p>AI in non-formal educators.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/fosteringai" target="_blank" rel="noopener">
+    <i class="fab fa-twitter mr-1"></i>Follow</a>
+
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item js-id-Machine-Learning">
+  <div class="card">
+    
+    
+    <a href="/project/result3/"  class="card-image hover-overlay">
+      <img src="/project/result3/featured_hu8d3f2407c907992eda2652736b66a53f_168987_550x0_resize_lanczos_3.png" alt="Result 3: Interactive Learning Tool" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/project/result3/" >Result 3: Interactive Learning Tool</a></h4>
+
+      
+      <div class="article-style">
+        <p>LearningML tool.</p>
+      </div>
+      
+
+      
+      <div class="btn-links">
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/fosteringai" target="_blank" rel="noopener">
+    <i class="fab fa-twitter mr-1"></i>Follow</a>
+
+
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="partners" class="home-section wg-portfolio  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Partners</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+
+  <div class="isotope projects-container js-layout-masonry ">
+
+    
+    
+      
+    
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item ">
+  <div class="card">
+    
+    
+    <a href="/partners/collectiveup/"  class="card-image hover-overlay">
+      <img src="/partners/collectiveup/featured_hu14eaa668cb1ac9eb1a23a00e1cc1fdfe_283938_550x0_resize_lanczos_3.png" alt="CollectiveUP - Belgium" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/partners/collectiveup/" >CollectiveUP - Belgium</a></h4>
+
+      
+      <div class="article-style">
+        <p>Read more</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item ">
+  <div class="card">
+    
+    
+    <a href="/partners/urjc/"  class="card-image hover-overlay">
+      <img src="/partners/urjc/featured_hu14eaa668cb1ac9eb1a23a00e1cc1fdfe_189752_550x0_resize_lanczos_3.png" alt="Rey Juan Carlos University - Spain" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/partners/urjc/" >Rey Juan Carlos University - Spain</a></h4>
+
+      
+      <div class="article-style">
+        <p>Read more</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item ">
+  <div class="card">
+    
+    
+    <a href="/partners/teatro/"  class="card-image hover-overlay">
+      <img src="/partners/teatro/featured_hu14eaa668cb1ac9eb1a23a00e1cc1fdfe_242519_550x0_resize_lanczos_3.png" alt="Teatro Circo Braga - Portugal" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/partners/teatro/" >Teatro Circo Braga - Portugal</a></h4>
+
+      
+      <div class="article-style">
+        <p>Read more</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+
+      
+      
+      
+
+      
+        
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<div class="project-card project-item isotope-item ">
+  <div class="card">
+    
+    
+    <a href="/partners/vub/"  class="card-image hover-overlay">
+      <img src="/partners/vub/featured_hu14eaa668cb1ac9eb1a23a00e1cc1fdfe_127515_550x0_resize_lanczos_3.png" alt="Vrije Universiteit Brussel - Belgium" class="img-responsive" loading="lazy">
+    </a>
+    
+    <div class="card-text">
+      <h4><a href="/partners/vub/" >Vrije Universiteit Brussel - Belgium</a></h4>
+
+      
+      <div class="article-style">
+        <p>Read more</p>
+      </div>
+      
+
+      
+    </div>
+  </div>
+</div>
+
+      
+
+    
+  </div>
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="people" class="home-section wg-people  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+
+
+
+
+
+<div class="row justify-content-center people-widget">
+  
+  <div class="col-md-12 section-heading">
+    <h1>Team Members</h1>
+    
+  </div>
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Researchers</h2>
+  </div>
+  
+
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/dr.-marjon-blondeel/"><img class="avatar avatar-circle" src="/author/dr.-marjon-blondeel/avatar_hu20e90c8777689e13344847d7bea43062_205645_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/dr.-marjon-blondeel/">Dr. Marjon Blondeel</a></h2>
+      <h3>Vrije Universiteit Brussel</h3>
+      <h3>Responsible for Result 1</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/joana-miranda/"><img class="avatar avatar-circle" src="/author/joana-miranda/avatar_hu9475e40123017607cf3e014e405fbc8c_87168_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/joana-miranda/">Joana Miranda</a></h2>
+      <h3>Teatro Braga Media Arts</h3>
+      <h3>Responsible for Result 1</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/liliana-carrillo/"><img class="avatar avatar-circle" src="/author/liliana-carrillo/avatar_hua35d9d39c253684e849abc086cd03785_848426_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/liliana-carrillo/">Liliana Carrillo</a></h2>
+      <h3>CollectiveUp</h3>
+      <h3>Communications Manager and responsible for Result 2</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/prof.gregorio-robles/"><img class="avatar avatar-circle" src="/author/prof.gregorio-robles/avatar_hu3fe85b879338846b7b06cc08932e1e4d_109225_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/prof.gregorio-robles/">Prof.Gregorio Robles</a></h2>
+      <h3>Rey Juan Carlos University</h3>
+      <h3>Project coordinator and responsible for Result 3</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/sara-borges/"><img class="avatar avatar-circle" src="/author/sara-borges/avatar_hud826bd7656f5b4b8bfedaac0a6ddc978_8473_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/sara-borges/">Sara Borges</a></h2>
+      <h3>Teatro Braga Media Arts</h3>
+      <h3>Responsible for Result 1</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  
+  
+
+  
+
+  
+  
+  
+
+  
+  <div class="col-md-12">
+    <h2 class="mb-4">Advisory Board</h2>
+  </div>
+  
+
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/ibrahim-h.-yeter/"><img class="avatar avatar-circle" src="/author/ibrahim-h.-yeter/avatar_huba8a0adcb08162ce5fb58ee9022bd781_130624_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/ibrahim-h.-yeter/">Ibrahim H. Yeter</a></h2>
+      
+      <h3>FAIaS Advisory Board</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/luis-chamba-eras/"><img class="avatar avatar-circle" src="/author/luis-chamba-eras/avatar_hu055afc9b4b4088b2b6faba248d10fdab_533846_270x270_fill_q75_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/luis-chamba-eras/">Luis Chamba Eras</a></h2>
+      
+      <h3>FAIaS Advisory Board</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/nguyen-thinh-le/"><img class="avatar avatar-circle" src="/author/nguyen-thinh-le/avatar_hucc09ddc1870164d990b5221b7c5a7273_103182_270x270_fill_lanczos_center_3.png" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/nguyen-thinh-le/">Nguyen-Thinh Le</a></h2>
+      
+      <h3>FAIaS Advisory Board</h3>
+      
+      
+    </div>
+  </div>
+  
+  
+</div>
+
+
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="events" class="home-section wg-pages  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Events &amp; Training</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+<div class="col-12 col-lg-8">
+
+  
+
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+  <div class="article-metadata">
+    
+    <span>
+      Nov 26, 2021 9:00 AM &mdash; 5:30 PM
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Portugal</span>
+    
+  </div>
+  
+
+  
+  
+  
+  
+  <a href="/talk/multiplier-event-e1-bragaportugal/">
+    <div class="img-hover-zoom"><img src="/talk/multiplier-event-e1-bragaportugal/featured_hu2695976fe81ed030dfa9236356095837_1369547_808x455_fill_lanczos_smart1_3.png" class="article-banner" alt="Multiplier event E1 - Braga(Portugal)" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/talk/multiplier-event-e1-bragaportugal/">Multiplier event E1 - Braga(Portugal)</a>
+  </div>
+
+  
+  <a href="/talk/multiplier-event-e1-bragaportugal/" class="summary-link">
+    <div class="article-style">
+      <p>European Gathering on Artificial Intelligence at Schools</p>
+    </div>
+  </a>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/fosteringai" target="_blank" rel="noopener">
+    <i class="fab fa-twitter mr-1"></i>Follow</a>
+
+
+  </div>
+  
+
+</div>
+
+   
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+
+  
+  <section id="posts" class="home-section wg-pages  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Posts</h1>
+            
+          </div>
+        
+
+
+<div class="col-12 col-lg-8">
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple">
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Oct 12, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+
+
+
+  
+  <a href="/post/happy_hour_inter_announce/">
+    <div class="img-hover-zoom"><img src="/post/happy_hour_inter_announce/wallpaper_HAPPYHOUR.png" class="article-banner" alt="hh2_ad" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/happy_hour_inter_announce">International Happy Hour announcement!</a>
+  </div>
+
+  
+  <a href="/post/happy_hour_inter_announce" class="summary-link">
+    <div class="article-style">
+      <p>This 24th of september, at 18.00 CEST, a special edition of HAPPY HOUR will take place with international experts (ENG)!!!</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple">
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Sep 10, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+
+
+
+  
+  <a href="/post/happy_hour_4_announce/">
+    <div class="img-hover-zoom"><img src="/post/happy_hour_4_announce/wallpaper_HAPPYHOUR.png" class="article-banner" alt="hh2_ad" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/happy_hour_4_announce">Happy Hour #4 announcement!</a>
+  </div>
+
+  
+  <a href="/post/happy_hour_4_announce" class="summary-link">
+    <div class="article-style">
+      <p>This 14th of september, at 17.00h CET, Happy Hour events returns with its fourth edition!!!</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple">
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jul 10, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+
+
+
+  
+  <a href="/post/ltta_braga/">
+    <div class="img-hover-zoom"><img src="/post/ltta_braga/FAIAS_LTTA_WALLPAPER.png" class="article-banner" alt="hh2_ad" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/ltta_braga">FAIAS LTTA Resources</a>
+  </div>
+
+  
+  <a href="/post/ltta_braga" class="summary-link">
+    <div class="article-style">
+      <p>A small summary and all the resources of the LTTA held in Braga (Portugal).</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple">
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jun 9, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+
+
+
+  
+  <a href="/post/happy_hour_3_announce/">
+    <div class="img-hover-zoom"><img src="/post/happy_hour_3_announce/wallpaper_HAPPYHOUR.png" class="article-banner" alt="hh2_ad" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/happy_hour_3_announce">Happy Hour #3 announcement!</a>
+  </div>
+
+  
+  <a href="/post/happy_hour_3_announce" class="summary-link">
+    <div class="article-style">
+      <p>This 16th of june, at 17.30h CET, Happy Hour events returns with its third edition!!!</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="card-simple">
+  
+  
+        <div>
+          
+      
+        <span >
+            <a href="/author/"></a></span>
+        </div>
+        
+        
+      
+        
+        <span class="article-date">
+          
+          
+            
+          
+          May 30, 2022
+        </span>
+        
+      
+        
+      
+        
+        <span class="middot-divider"></span>
+        <span class="article-reading-time">
+          1 min read
+        </span>
+        
+      
+      
+      
+      
+        
+        <a href="/post/ltta_program/">
+          <div class="img-hover-zoom"><img src="/post/ltta_program/LTTA_braga.jpg" class="article-banner" alt="hh2_ad" loading="lazy"></div>
+        </a>
+        
+      
+        <div class="section-subheading article-title mb-1 mt-3">
+          <a href="/post/ltta_program">Braga LTTA Program</a>
+        </div>
+      
+        
+        <a href="/post/ltta_program" class="summary-link">
+          <div class="article-style">
+            <p>Program and important information about our LTTA event held in Braga [Portugal].</p>
+          </div>
+        </a>
+        
+      
+        
+      
+      </div> 
+
+
+
+
+
+
+
+
+
+
+  
+    <div class="card-simple">
+  
+  
+        <div>
+          
+      
+        <span >
+            <a href="/author/"></a></span>
+        </div>
+        
+        
+      
+        
+        <span class="article-date">
+          
+          
+            
+          
+          May 16, 2022
+        </span>
+        
+      
+        
+      
+        
+        <span class="middot-divider"></span>
+        <span class="article-reading-time">
+          2 min read
+        </span>
+        
+      
+      
+      
+      
+        
+        <a href="/post/interview_Chrysanthi/">
+          <div class="img-hover-zoom"><img src="/post/interview_Chrysanthi/chrysanthi_wallpaper.jpg" class="article-banner" alt="hh2_ad" loading="lazy"></div>
+        </a>
+        
+      
+        <div class="section-subheading article-title mb-1 mt-3">
+          <a href="/post/interview_Chrysanthi">Interview with Chrysanthi Katrini</a>
+        </div>
+      
+        
+        <a href="/post/interview_Chrysanthi" class="summary-link">
+          <div class="article-style">
+            <p>The summary of our interview with Chrysanthi Katrini</p>
+          </div>
+        </a>
+        
+      
+        
+      
+      </div> 
+  
+  
+    <div class="card-simple">
+  
+  
+        <div>
+          
+      
+        <span >
+            <a href="/author/"></a></span>
+        </div>
+        
+        
+      
+        
+        <span class="article-date">
+          
+          
+            
+          
+          May 16, 2022
+        </span>
+        
+      
+        
+      
+        
+        <span class="middot-divider"></span>
+        <span class="article-reading-time">
+          4 min read
+        </span>
+        
+      
+      
+      
+      
+        
+        <a href="/post/interview_Madhumalti/">
+          <div class="img-hover-zoom"><img src="/post/interview_Madhumalti/madhumalti_wallpaper.jpg" class="article-banner" alt="hh2_ad" loading="lazy"></div>
+        </a>
+        
+      
+        <div class="section-subheading article-title mb-1 mt-3">
+          <a href="/post/interview_Madhumalti">Interview with Madhumalti Sharma</a>
+        </div>
+      
+        
+        <a href="/post/interview_Madhumalti" class="summary-link">
+          <div class="article-style">
+            <p>The summary of our interview with Madhumalti Sharma</p>
+          </div>
+        </a>
+        
+      
+        
+      
+      </div> 
+  
+   <div class="card-simple">
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    March 28, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+ 
+  
+  
+
+  
+  <a href="/post/happy_hour_2/">
+    <div class="img-hover-zoom"><img src="/post/happy_hour_2/wallpaper_HAPPYHOUR.png" class="article-banner" alt="hh2_ad" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/happy_hour_2">Happy Hour #2 summary</a>
+  </div>
+
+  
+  <a href="/post/happy_hour_2" class="summary-link">
+    <div class="article-style">
+      <p>The summary of our second edition of the Happy Hour streaming and the reuploaded video!</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   <div class="card-simple">
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Feb 19, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+
+
+
+  
+  <a href="/post/happy_hour_2_announce/">
+    <div class="img-hover-zoom"><img src="/post/happy_hour_2_announce/wallpaper_HAPPYHOUR.png" class="article-banner" alt="hh2_ad" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/happy_hour_2_announce">Happy Hour #2 announcement!</a>
+  </div>
+
+  
+  <a href="/post/happy_hour_2_announce" class="summary-link">
+    <div class="article-style">
+      <p>This 24th of february, at 17.30h CET, Happy Hour events returns with its second edition!!!</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   <div class="card-simple">
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 31, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min read
+  </span>
+  
+
+
+
+
+  
+  <a href="/post/call_for_educators/">
+    <div class="img-hover-zoom"><img src="/post/call_for_educators/callforeducators.png" class="article-banner" alt="call for educators" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/call_for_educators/">Call for educators!</a>
+  </div>
+
+  
+  <a href="/post/call_for_educators/" class="summary-link">
+    <div class="article-style">
+      <p>If you're teacher and you want to introduce AI and Machine Learning concepts in your classrooms, you can apply to be in a Learning-Teaching-Training Activity in Braga (Portugal)</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+    <div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 26, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    3 min read
+  </span>
+  
+
+
+</div>
+
+  
+  <a href="/post/lets_talk_with_teachers/">
+    <div class="img-hover-zoom"><img src="/post/lets_talk_with_teachers/letstalk.png" class="article-banner" alt="lets_talk" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/lets_talk_with_teachers/">Let's talk with the teachers</a>
+  </div>
+
+  
+  <a href="/post/lets_talk_with_teachers/" class="summary-link">
+    <div class="article-style">
+      <p>Interview with Prof. Luís Filipe Fernandes.</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+  
+  
+  
+  
+  <div class="card-simple">
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 24, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+
+
+
+  
+  <a href="/post/the_inclusion_guide/">
+    <div class="img-hover-zoom"><img src="/post/the_inclusion_guide/inclusion.png" class="article-banner" alt="Inclusion guide" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/the_inclusion_guide/">Working on Results 2, the inclusion guide: the why, what, and first steps</a>
+  </div>
+
+  
+  <a href="/post/the_inclusion_guide/" class="summary-link">
+    <div class="article-style">
+      <p>When an homogeneous group is creating the AI algorithms, this translates into the creation of algorithms that (can unconsciously) discriminate unethically..</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+      
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 12, 2022
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    8 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/post/reinforcement_learning/">
+    <div class="img-hover-zoom"><img src="/post/reinforcement_learning/featured_hucf3644cf15c5f9993e3a3693c00650af_148902_808x455_fill_lanczos_smart1_3.png" class="article-banner" alt="In a Reinforcement Learning agent’s shoes" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/reinforcement_learning/">In a Reinforcement Learning agent’s shoes</a>
+  </div>
+
+  
+  <a href="/post/reinforcement_learning/" class="summary-link">
+    <div class="article-style">
+      <p>Artificial Intelligence (AI) is all around us and we use it everyday: spam filters, online chatbots, search engines, video games anticipating our next moves, navigation apps, rideshare apps, just to name a few.</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 22, 2021
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/post/working_on_result1/">
+    <div class="img-hover-zoom"><img src="/post/working_on_result1/featured_hu75638c6eb9ebc9f07d2aba156610003c_1061912_808x455_fill_q75_lanczos_smart1.jpg" class="article-banner" alt="Working on Result 1 with the teachers: what we have learned so far" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/working_on_result1/">Working on Result 1 with the teachers: what we have learned so far</a>
+  </div>
+
+  
+  <a href="/post/working_on_result1/" class="summary-link">
+    <div class="article-style">
+      <p>Working with the teachers: what we have learned so far One of the FAIAS most important goals is the creation of a user-friendly handbook that introduces teachers to the world of Artificial Intelligence, sharing inspiring examples and useful tools to use in the classroom.</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 15, 2021
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/post/learningml/">
+    <div class="img-hover-zoom"><img src="/post/learningml/featured_hu8d3f2407c907992eda2652736b66a53f_168987_808x455_fill_lanczos_smart1_3.png" class="article-banner" alt="Progress on LearningML, the digital tool to learn Machine Learning concepts" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/learningml/">Progress on LearningML, the digital tool to learn Machine Learning concepts</a>
+  </div>
+
+  
+  <a href="/post/learningml/" class="summary-link">
+    <div class="article-style">
+      <p>The why behind FAIaS digital tool The FAIaS consortium, led by the University Rey Juan Carlos, has been working on the implementation of a digital tool to facilitate the understanding of Machine Learning, one of the branches of Artificial Intelligence.</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Dec 9, 2021
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/post/multiplier_event1/">
+    <div class="img-hover-zoom"><img src="/post/multiplier_event1/featured_hua21187a315ab77021a00f87bf4fe932d_648447_808x455_fill_q75_lanczos_smart1.jpg" class="article-banner" alt="All about the 1st Multiplier Event" loading="lazy"></div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/multiplier_event1/">All about the 1st Multiplier Event</a>
+  </div>
+
+  
+  <a href="/post/multiplier_event1/" class="summary-link">
+    <div class="article-style">
+      <p>On the 26th of November, FAIAS partners organized the 1st Multiplier Event under the great coordination of partner Teatro Circo de Braga. This Impact Gathering attracted a diverse public ranging from teachers to policy makers, with the slogan: “For a better understanding of what Artificial Intelligence is and how it can be used (or misused) in education and training”.</p>
+    </div>
+  </a>
+  
+
+</div>
+
+
+
+
+
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/"></a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 18, 2021
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+  
+  
+  </div>
+  
+
+  
+  
+
+
+
+  
+
+  
+  
+  
+  
+  <a href="/post/ai_at_schools/">
+    <div class="img-hover-zoom"><img src="/post/ai_at_schools/featured_hu8474a13ceb62f58f16526c55d32ef550_1105073_808x455_fill_lanczos_smart1_3.png" class="article-banner" alt="For a better understanding of what Artificial Intelligence is and how it can be used (or misused) in education and training" loading="lazy"></div>
+  </a>
+  
+
+
+
+
+
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/post/ai_at_schools/">For a better understanding of what Artificial Intelligence is and how it can be used (or misused) in education and training</a>
+  </div>
+
+  
+  <a href="/post/ai_at_schools/" class="summary-link">
+    <div class="article-style">
+      <p>In the last 10 years, Artificial Intelligence (AI) has been transforming the economy, our work methods, and pastimes in visible and invisible ways. And, we will increasingly be supported by and interact with technology that is powered by Artificial Intelligence.</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+    
+ </div>
+
+  
+  
+  
+
+</div>
+
+</div>
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+    
+    
+    
+    
+      
+    
+    
+      
+      
+    
+    
+      
+      
+    
+  
+
+  
+    
+  
+
+  
+    
+    
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="newsletter" class="home-section wg-blank light " style="padding: 20px 0 20px 0;" >
+   <div class="home-section-bg  bg-image parallax" style="background-image: url(&#39;/media/sobre2_hu6b5bc5785020b81728c530746e7f7c0b_145444_1920x1920_fit_q75_h2_lanczos_3.webp&#39;);background-size: cover;background-position: left;filter: brightness(1);">
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Newsletter</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12 col-lg-8">
+    <!-- Begin Mailchimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<style type="text/css">
+	#mc-embedded-subscribe-form input[type=checkbox]{display: inline; width: auto;margin-right: 10px;}
+	#mergeRow-gdpr {margin-top: 20px;}
+	#mergeRow-gdpr fieldset label {font-weight: normal;}
+	#mc-embedded-subscribe-form .mc_fieldset{border:none;min-height: 0px;padding-bottom:0px;}
+</style>
+<div id="mc_embed_signup">
+<form action="https://fosteringai.us5.list-manage.com/subscribe/post?u=706f9ed75fb884364cf3b673a&amp;id=983f38532f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL"></label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+<div id="mergeRow-gdpr" class="mergeRow gdpr-mergeRow content__gdprBlock mc-field-group">
+    <div class="content__gdpr">
+        <label>Marketing Permissions</label>
+        <p>Please select all the ways you would like to hear from Fostering Artificial Intelligence at Schools:</p>
+        <fieldset class="mc_fieldset gdprRequired mc-field-group" name="interestgroup_field">
+		<label class="checkbox subfield" for="gdpr_352948"><input type="checkbox" id="gdpr_352948" name="gdpr[352948]" value="Y" class="av-checkbox gdpr"><span>Email</span> </label>
+        </fieldset>
+        <p>You can unsubscribe at any time by clicking the link in the footer of our emails. For information about our privacy practices, please visit our website.</p>
+    </div>
+<!--    <div class="content__gdprLegal">
+        <p>We use Mailchimp as our marketing platform. By clicking below to subscribe, you acknowledge that your information will be transferred to Mailchimp for processing. <a href="https://mailchimp.com/legal/terms" target="_blank">Learn more about Mailchimp's privacy practices here.</a></p>
+    </div> -->
+</div>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_706f9ed75fb884364cf3b673a_983f38532f" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" style="color:black" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<!--End mc_embed_signup-->
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+    
+    
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="footer" class="home-section wg-hero dark "  >
+   <div class="home-section-bg " style="background-image: linear-gradient(90deg, #ffffff, #ffffff);">
+     
+   </div>
+    <div class="container">
+
+    
+
+      
+
+
+
+
+<div class="row">
+  <div class="col-12 col-md-6 text-center text-md-left">
+
+
+    
+
+    
+      <div class="hero-lead"><!--**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+
+**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs. -->
+</div>
+    
+
+    
+    
+
+    
+    
+
+  
+  
+  </div>
+  <div class="col-12 mx-auto col-md-6  hero-media">
+      
+      
+
+        
+        
+        
+        
+
+        
+          
+          
+            
+          
+          
+        
+          
+          
+          
+        
+          
+          
+          
+        
+        
+
+        <img src="/home/logo_europa_hu72e0b9789cadf6ad6c21b5e8bf574b13_27189_400x0_resize_lanczos_3.png" srcset="/home/logo_europa_hu72e0b9789cadf6ad6c21b5e8bf574b13_27189_1200x0_resize_lanczos_3.png 1200w,/home/logo_europa_hu72e0b9789cadf6ad6c21b5e8bf574b13_27189_800x0_resize_lanczos_3.png 800w,/home/logo_europa_hu72e0b9789cadf6ad6c21b5e8bf574b13_27189_400x0_resize_lanczos_3.png 400w" width="300" height="81" alt="">
+      
+    
+  </div>
+</div>
+
+
+
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="contact" class="home-section wg-contact  "  >
+   <div class="home-section-bg " >
+     
+   </div>
+    <div class="container">
+
+    
+      <div class="row  ">
+      
+        
+          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
+            <h1 class="mb-0">Contact</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-lg-8">
+  <!--
+<img src="https://gestion2.urjc.es/pdi/public/docs/gregorio.robles/foto_gregorio.robles.jpg" width="120" height="120" />
+
+
+**Project coordinator and responsible for Result 3:**
+
+
+Prof.Gregorio Robles
+
+University Rey Juan Carlos
+
+gregorio.robles@urjc.es
+
+<img src="https://origamiforchange.org/wp-content/uploads/2017/06/lilicv.png" width="150" height="150" />
+
+
+**Communications Manager:**
+
+Liliana Carrillo
+
+CollectiveUP
+
+lylycarrillo@gmail.com
+
+
+<br>
+<br>
+<br>
+<img src="https://edu4ai.eu/public/images/logosbeneficaireserasmusright_en_0.jpg" width="300" height="200" /> -->
+
+
+  
+
+    
+    
+      
+      
+      
+    
+
+    <div class="mb-3">
+      <form name="contact" method="POST" action="https://formspree.io/f/test"   >
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputName">Name</label>
+          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
+        </div>
+        <div class="form-group form-inline">
+          <label class="sr-only" for="inputEmail">Email</label>
+          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
+        </div>
+        <div class="form-group">
+          <label class="sr-only" for="inputMessage">Message</label>
+          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
+        </div>
+        
+        <div class="d-none">
+          <label>Do not fill this field unless you are a bot: <input name="_gotcha"></label>
+        </div>
+        
+        <button type="submit" class="btn btn-primary px-3 py-2 w-100">Send</button>
+      </form>
+    </div>
+  
+
+  <ul class="fa-ul">
+
+    
+    <li>
+      <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+      <span id="person-email"><a href="mailto:faias@fosteringai.net">faias@fosteringai.net</a></span>
+    </li>
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+  </ul>
+
+  
+
+</div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+
+
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.d68ecd57c0ec1f1f61d65fd568f1c3a0.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>
